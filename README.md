@@ -1,4 +1,4 @@
-# Western HSC 2026-27
+# Western HSC 2026 - 27
 
 Planning docs for Western Hindu Students Council (Western University).
 

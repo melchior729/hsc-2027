@@ -19,7 +19,7 @@ Track open work here and check items off as they get done.
 - [ ] Map USC ratification checklist from Shivali's docs; work backward from **Oct 15, 2026** → [ratification.md](ratification.md)
 - [ ] Get confirmation from Ananya on OWeek, Ganesh Chaturthi, and Makar Sankranti → [events.md](events.md)
 - [ ] Get confirmation from Ishani and Shivan on Diwali and Holi → [events.md](events.md)
-- [ ] Lock exact dates/times for Diwali, Makar Sankranti, and Holi; book venues on the 4-6 week lead → [events.md](events.md)
+- [ ] Lock exact dates/times for Diwali, Makar Sankranti, and Holi; book venues on the 4 - 6 week lead → [events.md](events.md)
 - [ ] Assign handling (post / puja-aarti) to non-main days → [hindu-calendar.md](hindu-calendar.md)
 - [ ] Build a $650 budget breakdown across the five main events → [budget.md](budget.md)
 - [ ] Decide whether to pursue sponsorship / partnership idea (and who owns it) → [ideas.md](ideas.md)
