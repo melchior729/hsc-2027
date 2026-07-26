@@ -64,4 +64,4 @@ Owns pooja and ritual practice: mantras, ceremony knowledge, and care of the phy
 
 ### Senior Advisor (Himani)
 
-Was in the club last year. Institutional memory and advice: past contacts, what worked / did not, and context presidents and VPs can ask for. Primary support right now is ratification, helping Krishna and Arnav alongside Shivali. Not day-to-day ops. See [ratification.md](ratification.md).
+Institutional memory and advice: past contacts, what worked / did not, and context presidents and VPs can ask for. Primary support right now is ratification, helping Krishna and Arnav alongside Shivali. Not day-to-day ops. See [ratification.md](ratification.md).

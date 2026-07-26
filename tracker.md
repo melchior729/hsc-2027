@@ -14,6 +14,7 @@ Track open work here and check items off as they get done.
 - [x] Ideas drafted (sponsorship, donation box + QR, merch store) → [ideas.md](ideas.md)
 - [x] Location drafted (15A ops, cleaning, exclusive-use booking, dedicated Hindu room) → [location.md](location.md)
 - [x] Structure drafted (members roster + abstract role notes; Internal / Comms still *TBD*) → [structure.md](structure.md)
+- [x] Ratification drafted (overview, who does what, funds pointer, 11-area checklist goal) → [ratification.md](ratification.md)
 
 ---
 
@@ -48,7 +49,7 @@ Track open work here and check items off as they get done.
 - [ ] Fill Production Team slots: Person X and Person Y → [content.md](content.md)
 - [ ] Lock Production Team week rotation order → [content.md](content.md)
 - [ ] Decide event photography / documentation ownership → [content.md](content.md)
-- [ ] Map USC ratification checklist from Shivali's docs; work backward from **Oct 15, 2026** → [ratification.md](ratification.md)
+- [ ] Build USC ratification checklist (11 areas); Krishna & Arnav lead, with Abhay, Ananya, and Himani; use Shivali's docs and work backward from **Oct 15, 2026** → [ratification.md](ratification.md)
 - [ ] Assign handling (mandatory social post / pooja-aarti in 15A) to non-main days → [hindu-calendar.md](hindu-calendar.md)
 - [ ] Next concrete step for dedicated Hindu room push (Nidhi leads coalition outreach) → [location.md](location.md) / [responsibilities.md](responsibilities.md)
 - [ ] Add more contacts (USC staff, 15A, other clubs, temples) + fill emails / phones → [connections.md](connections.md)
@@ -66,4 +67,5 @@ Track open work here and check items off as they get done.
 - [x] Ideas: three parked ideas written (sponsorship / partnership, Mandir donation box + QR, club merch store)
 - [x] Location: renamed from space; 15A naming; cleaning (whoever is there); dedicated Hindu room approach with Nidhi as External owner
 - [x] Structure: abstract role notes (who exists / what the role means); concrete tasks stay in responsibilities and topic files
+- [x] Ratification: overview, who does what, funds pointer, related questions, 11-area checklist goal assigned to EOs + presidents + Himani
 - [x] Renamed open.md → tracker.md; Multifaith → 15A everywhere; Sanita → Sanmita; first names used outside the full-name contact list

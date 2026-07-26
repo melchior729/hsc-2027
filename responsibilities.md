@@ -12,6 +12,7 @@ Co-Presidents · Status: In progress
 
 - Meet and come up with a unified plan for the year so both presidents are aligned before the co-exec meeting and before handing work out to VPs
 - Join the ratification meeting with Shivali (alongside Krishna and Arnav) so presidents understand the docs and process
+- Help build the USC ratification checklist in [ratification.md](ratification.md) (with Krishna, Arnav, and Himani)
 - Ask Himani or Shivali who the 15A exclusive-use contact is, then ask that person directly (short conversation once we find the right person; see [location.md](location.md))
 
 ---
@@ -23,6 +24,7 @@ Executive Officers · Status: Not started
 - Set up a meeting with Shivali on ratification
 - Get the ratification documents from her
 - Learn the full process and clarify what we still need before the Oct 15 USC submission deadline
+- Lead building the USC ratification checklist in [ratification.md](ratification.md) (with Abhay, Ananya, and Himani)
 
 ---
 
@@ -95,5 +97,6 @@ Senior Advisor · Status: Not started
 
 - Support Krishna and Arnav on ratification: share what she remembers from last year, and flag anything that has changed
 - Help track down or clarify ratification information alongside Shivali
+- Help build the USC ratification checklist in [ratification.md](ratification.md) (with Krishna, Arnav, Abhay, and Ananya)
 - General institutional knowledge on request: past contacts, what worked / did not in prior years
 
