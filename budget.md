@@ -6,21 +6,21 @@ See also: [events.md](events.md) · [ratification.md](ratification.md) · [ideas
 
 ---
 
-## Budget overview
+## Budget Overview
 
-
-| Item          | Detail                                                                                                                                                 |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Year total    | $650                                                                                                                                                   |
-| Owners        | Finance Team                                                                                                                                           |
-| Funds held in | `@bringup[Ananya]`: club funds will sit in our accounts. Needs a decision on which account to use going forward, and a plan for handoff once ratified. |
-
+| Item          | Detail                                          |
+| ------------- | ----------------------------------------------- |
+| Year total    | $650                                            |
+| Owners        | Finance Team                                    |
+| Funds held in | `@bringup[Ananya]`: account TBD; see note below |
 
 $650 is a major constraint on everything we plan: events, food, materials, OWeek, promo. Every spend decision has to respect this number.
 
+Club funds currently sit in a personal account. Ananya needs to decide which account to use going forward and plan the handoff once ratified.
+
 ---
 
-## Spending rules
+## Spending Rules
 
 - Spend as little money as possible while achieving our goals
 - Prefer low-cost formats for OWeek, Ganesh Chaturthi, and Makar Sankranti / Pongal
@@ -30,7 +30,7 @@ $650 is a major constraint on everything we plan: events, food, materials, OWeek
 
 ---
 
-## Finance responsibilities
+## Finance Responsibilities
 
 - Finance sets and maintains a spending buffer against the $650 ceiling; do not plan to spend the full amount
 - All purchases must be approved by Finance before money is spent
@@ -42,20 +42,17 @@ $650 is a major constraint on everything we plan: events, food, materials, OWeek
 
 ---
 
-## Event budget breakdown
+## Event Budget Breakdown
 
 `@bringup[Ishani, Shivan]`: Check in on rough cost estimates for each main event against the $650 ceiling. Talk through numbers with Finance as event plans firm up in [events.md](events.md); early estimates are fine.
 
-Amounts stay *TBD* until then.
-
+Amounts stay TBD until then.
 
 | #   | Event                                                                 | Estimated cost | Notes                                        |
 | --- | --------------------------------------------------------------------- | -------------- | -------------------------------------------- |
-| 1   | [OWeek](events.md#event-1-oweek)                                      | *TBD*          | Variable; keep low-cost                      |
-| 2   | [Ganesh Chaturthi](events.md#event-2-ganesh-chaturthi)                | *TBD*          | Low-cost social / aarti                      |
-| 3   | [Diwali](events.md#event-3-diwali)                                    | *TBD*          | Larger share                                 |
-| 4   | [Makar Sankranti / Pongal](events.md#event-4-makar-sankranti--pongal) | *TBD*          | Low-cost, like Ganesh                        |
-| 5   | [Holi](events.md#event-5-holi)                                        | *TBD*          | Larger share; permits / cleanup may add cost |
-|     | **Total**                                                             | **$650 max**   | Must fit year ceiling                        |
-
-
+| 1   | [OWeek](events.md#event-1-oweek)                                      | TBD            | Variable; keep low-cost                      |
+| 2   | [Ganesh Chaturthi](events.md#event-2-ganesh-chaturthi)                | TBD            | Low-cost social / pooja                      |
+| 3   | [Diwali](events.md#event-3-diwali)                                    | TBD            | Larger share                                 |
+| 4   | [Makar Sankranti / Pongal](events.md#event-4-makar-sankranti--pongal) | TBD            | Low-cost, like Ganesh                        |
+| 5   | [Holi](events.md#event-5-holi)                                        | TBD            | Larger share; permits / cleanup may add cost |
+|     | Total                                                                 | $650 max       | Must fit year ceiling                        |

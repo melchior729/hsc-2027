@@ -1,6 +1,6 @@
 # Connections
 
-Important people that will prove to be useful.
+Important people who will be useful.
 
 Anyone can add a contact, but Nidhi largely controls this file.
 
@@ -8,14 +8,12 @@ See also: [ratification.md](ratification.md) · [responsibilities.md](responsibi
 
 ---
 
-## Contact list
+## Contact List
 
-
-| Name             | Relation                        | Email                                   | Phone | Reason                                                                              |
-| ---------------- | ------------------------------- | --------------------------------------- | ----- | ----------------------------------------------------------------------------------- |
-| Shivali Sharma   | First President                 | *TBD*                                   | *TBD* | Strong on club ops and ratification documents. Must have a meeting to discuss.      |
-| Vinod Varapravan | Guide                           | *TBD*                                   | *TBD* | Krishna's dad; associated with Chinmaya Mission. Important community connect.       |
-| David Sisson     | Western Hindu Spiritual Advisor | [dsisson@uwo.ca](mailto:dsisson@uwo.ca) | *TBD* | Chill, and Western staff. Could be very useful when navigating university channels. |
-
+| Name             | Relation                        | Email                                   | Phone | Reason                                                                           |
+| ---------------- | ------------------------------- | --------------------------------------- | ----- | -------------------------------------------------------------------------------- |
+| Shivali Sharma   | First President                 | TBD                                     | TBD   | Strong on club ops and ratification documents. Must have a meeting to discuss.   |
+| Vinod Varapravan | Guide                           | TBD                                     | TBD   | Krishna's dad; associated with Chinmaya Mission. Important community connection. |
+| David Sisson     | Western Hindu Spiritual Advisor | [dsisson@uwo.ca](mailto:dsisson@uwo.ca) | TBD   | A helpful Western staff contact for navigating university channels.              |
 
 Add more contacts here as they come up: USC staff, 15A, other clubs, temples, etc.

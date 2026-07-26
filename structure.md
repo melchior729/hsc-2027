@@ -11,8 +11,8 @@ See also: [responsibilities.md](responsibilities.md) · [ratification.md](ratifi
 
 | Name    | Role              |
 | ------- | ----------------- |
-| Abhay   | Co-President      |
-| Ananya  | Co-President      |
+| Abhay   | Co-president      |
+| Ananya  | Co-president      |
 | Krishna | Executive Officer |
 | Arnav   | Executive Officer |
 | Ishani  | Events VP         |
@@ -28,11 +28,11 @@ See also: [responsibilities.md](responsibilities.md) · [ratification.md](ratifi
 
 ---
 
-## Role notes
+## Role Notes
 
-### Co-Presidents (Abhay, Ananya)
+### Co-presidents (Abhay, Ananya)
 
-Own big-picture planning, major decisions, and overall direction for the year. Align the exec team and hand work to VPs. Presidents also step in wherever a portfolio is running slow or needs extra support, across any VP team. Concrete tasks live in [responsibilities.md](responsibilities.md).
+Own big-picture planning, major decisions, and overall direction for the year. Align the exec team and hand work to VPs. Co-presidents also step in wherever a portfolio is running slow or needs extra support, across any VP team. Concrete tasks live in [responsibilities.md](responsibilities.md).
 
 ### Executive Officers (Krishna, Arnav)
 
@@ -48,7 +48,7 @@ Club-to-club and outside relationships: partnerships, outreach, and representing
 
 ### Internal VP (Anishka)
 
-Owns club-facing infrastructure: email, Drive, meeting minutes, exec socials, and the director hiring process across all VP teams. See [responsibilities.md](responsibilities.md).
+Owns club-facing infrastructure: email, Drive (shared with Anish; Anishka owns the folder structure), meeting minutes, exec socials, and the director hiring process across all VP teams. See [responsibilities.md](responsibilities.md).
 
 ### Finance VP (Sanmita, Ivneet)
 
@@ -56,7 +56,7 @@ Budgeting, tracking spending, reimbursements, and keeping the club inside budget
 
 ### Comms VP (Anish)
 
-*TBD*
+Owns regular club Instagram and social content: day to day posting and inbox, capturing activity to Drive (shared with Anishka), and running Comms directors once hired. Pipeline and director-era model live in [content.md](content.md). Concrete tasks live in [responsibilities.md](responsibilities.md).
 
 ### Mandir VP (Praven)
 
@@ -64,4 +64,4 @@ Owns pooja and ritual practice: mantras, ceremony knowledge, and care of the phy
 
 ### Senior Advisor (Himani)
 
-Institutional memory and advice: past contacts, what worked / did not, and context presidents and VPs can ask for. Primary support right now is ratification, helping Krishna and Arnav alongside Shivali. Not day-to-day ops. See [ratification.md](ratification.md).
+Institutional memory and advice: past contacts, what worked / did not, and context presidents and VPs can ask for. Primary support right now is ratification, helping Krishna and Arnav alongside Shivali. Not day to day ops. See [ratification.md](ratification.md).

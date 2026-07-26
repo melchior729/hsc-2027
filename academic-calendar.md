@@ -1,4 +1,4 @@
-# Academic calendar
+# Academic Calendar
 
 Western planning constraints for 2026 - 27. Use this when choosing event dates and booking windows.
 
@@ -6,7 +6,7 @@ See also: [events.md](events.md) · [hindu-calendar.md](hindu-calendar.md) · [r
 
 ---
 
-## Planning notes
+## Planning Notes
 
 - Avoid heavy event asks during exam periods
 - Avoid reading weeks
@@ -17,7 +17,6 @@ See also: [events.md](events.md) · [hindu-calendar.md](hindu-calendar.md) · [r
 
 ## Fall Term 2026
 
-
 | Date        | What                                                  |
 | ----------- | ----------------------------------------------------- |
 | Sept 7 - 12 | OWeek (walk-by opportunity)                           |
@@ -27,21 +26,17 @@ See also: [events.md](events.md) · [hindu-calendar.md](hindu-calendar.md) · [r
 | Dec 9       | Fall classes end                                      |
 | Dec 11 - 22 | Fall midterm / final exam period (London campus)      |
 
-
 ---
 
 ## Winter Break
-
 
 | Date                       | What         |
 | -------------------------- | ------------ |
 | Dec 23, 2026 - Jan 3, 2027 | Winter Break |
 
-
 ---
 
 ## Winter Term 2027
-
 
 | Date        | What                                     |
 | ----------- | ---------------------------------------- |
@@ -49,5 +44,3 @@ See also: [events.md](events.md) · [hindu-calendar.md](hindu-calendar.md) · [r
 | Feb 13 - 21 | Winter Reading Week (London campus)      |
 | Apr 9       | Winter classes end                       |
 | Apr 12 - 30 | Winter final exam period (London campus) |
-
-
