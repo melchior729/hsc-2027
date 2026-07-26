@@ -70,5 +70,5 @@ Track open work here and check items off as they get done.
 - [x] Ideas: three parked ideas written (sponsorship / partnership, Mandir donation box + QR, club merch store)
 - [x] Location: renamed from space; 15A naming; cleaning (whoever is there); dedicated Hindu room approach with Nidhi as External owner
 - [x] Structure: abstract role notes (who exists / what the role means); concrete tasks stay in responsibilities and topic files
-- [x] Ratification: overview, who does what, funds pointer, related questions, 11-area checklist goal assigned to EOs + presidents + Himani
+- [x] Ratification: overview, who does what, funds pointer, 11-area checklist goal assigned to EOs + presidents + Himani (donation / merch questions folded into financial + naming items)
 - [x] Renamed open.md → tracker.md; Multifaith → 15A everywhere; Sanita → Sanmita; first names used outside the full-name contact list

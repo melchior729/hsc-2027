@@ -52,18 +52,6 @@ See [budget.md](budget.md) for full financial rules. Key ratification dependency
 
 ---
 
-## Related questions to ask during the process
-
-Worth clarifying while we are in the docs with Shivali / USC (not blockers for starting, but ask early):
-
-- Donation platforms: what are clubs allowed to use? (Mandir donation box + QR idea)
-- Merch / print-on-demand: any USC restrictions on clubs selling clothing?
-- Anything else the checklist surfaces that touches Finance, External, or location
-
-See [ideas.md](ideas.md) for the parked donation and merch ideas.
-
----
-
 ## Goal: USC ratification checklist
 
 Owners: Krishna & Arnav (lead), with Abhay & Ananya and Himani. Build a concrete USC club ratification checklist from official USC sources (and confirm with Shivali / SOS). Cover these areas. For each item: cite the source, flag anything unclear, and note what still needs manual follow-up.
@@ -74,9 +62,9 @@ Owners: Krishna & Arnav (lead), with Abhay & Ananya and Himani. Build a concrete
 4. **Application / submission process**: What form or portal (Western Link? PDF?)? Required attachments (constitution, exec list, mandate statement, etc.)?
 5. **Deadlines and timing**: Confirm whether Oct 15, 2026 is accurate, or whether new-club ratification uses a different window than existing-club renewal.
 6. **Post-ratification obligations**: Ongoing Clubs Policy rules once ratified (event proposals through Western Link, sanctions / de-ratification, audits, etc.)
-7. **Financial requirements**: Bank account, financial reporting, reimbursement documentation format?
+7. **Financial requirements**: Bank account, financial reporting, reimbursement documentation format. Also confirm: what donation platforms are clubs allowed to use (Mandir donation box + QR idea, see [ideas.md](ideas.md))?
 8. **Category-specific rules**: Any special considerations for a faith-based club (e.g. 15A booking priority vs ratification status)?
-9. **Naming / branding rules**: Restrictions on club names or logos overlapping existing clubs, or using "Western" / USC branding on merch (relevant to the merch idea in [ideas.md](ideas.md))?
+9. **Naming / branding rules**: Restrictions on club names or logos overlapping existing clubs. Also confirm: any USC restrictions on clubs selling merch / clothing (see [ideas.md](ideas.md))?
 10. **Advisor / faculty sponsor**: Does USC require a staff or faculty advisor of record? If so, could Himani or David fill that role?
 11. **If ratification fails or is delayed past Oct 15**: Is there a next ratification window, or do we lose the year? Confirm with Shivali / SOS (fallback for now: stay inside $650).
 
