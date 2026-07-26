@@ -2,7 +2,7 @@
 
 Things we could implement later. Not commitments.
 
-See also: [budget.md](budget.md) · [ratification.md](ratification.md) · [open.md](open.md) · [space.md](space.md) · [content.md](content.md)
+See also: [budget.md](budget.md) · [ratification.md](ratification.md) · [tracker.md](tracker.md) · [space.md](space.md) · [content.md](content.md)
 
 ---
 

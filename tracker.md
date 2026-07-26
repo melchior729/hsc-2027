@@ -1,4 +1,4 @@
-# Open / TBD
+# Tracker
 
 Track open work here and check items off as they get done.
 
@@ -12,18 +12,6 @@ Track open work here and check items off as they get done.
 - [x] Connections drafted (preliminary; more contacts to be added) → [connections.md](connections.md)
 - [x] Hindu calendar drafted (handling types + Celebrate numbers aligned to events) → [hindu-calendar.md](hindu-calendar.md)
 - [x] Ideas drafted (sponsorship, donation box + QR, merch store) → [ideas.md](ideas.md)
-
----
-
-## Done
-
-- [x] Academic calendar: planning notes + Fall / Winter Break / Winter Term dates
-- [x] Events: five main events chosen with target dates, general considerations, and per-event notes (exact dates not locked for Diwali, Makar Sankranti, and Holi)
-- [x] Budget: $650 ceiling, spending rules, Finance responsibilities, event breakdown table scaffold
-- [x] Responsibilities: first asks written for Abhay & Ananya, Krishna & Arnav, Ishani & Shivan, Sanita & Ivneet, Praven
-- [x] Connections: preliminary contact list (Shivali, Vinod, David Sisson)
-- [x] Hindu calendar: Celebrate numbers match events (#2 Ganesh through #5 Holi); Post = mandatory social media; pooja / aarti likely in 15A; Rath Yatra removed
-- [x] Ideas: three parked ideas written (sponsorship / partnership, Mandir donation box + QR, club merch store)
 
 ---
 
@@ -60,5 +48,17 @@ Track open work here and check items off as they get done.
 - [ ] Map USC ratification checklist from Shivali's docs; work backward from **Oct 15, 2026** → [ratification.md](ratification.md)
 - [ ] Assign handling (mandatory social post / pooja-aarti in 15A) to non-main days → [hindu-calendar.md](hindu-calendar.md)
 - [ ] Next concrete step for dedicated Hindu room push → [space.md](space.md)
-- [ ] Confirm 15A exclusive-use contact (ask Himani or Shivali) → [space.md](space.md)
+- [ ] Confirm 15A exclusive-use contact (ask Himani or Shivali) → [space.md](space.md) / [responsibilities.md](responsibilities.md)
 - [ ] Add more contacts (USC staff, 15A, other clubs, temples) + fill emails / phones → [connections.md](connections.md)
+
+---
+
+## Done
+
+- [x] Academic calendar: planning notes + Fall / Winter Break / Winter Term dates
+- [x] Events: five main events chosen with target dates, general considerations, and per-event notes (exact dates not locked for Diwali, Makar Sankranti, and Holi)
+- [x] Budget: $650 ceiling, spending rules, Finance responsibilities, event breakdown table scaffold
+- [x] Responsibilities: first asks written for Abhay & Ananya, Krishna & Arnav, Ishani & Shivan, Sanmita & Ivneet, Praven
+- [x] Connections: preliminary contact list (Shivali, Vinod, David Sisson)
+- [x] Hindu calendar: Celebrate numbers match events (#2 Ganesh through #5 Holi); Post = mandatory social media; pooja / aarti likely in 15A; Rath Yatra removed
+- [x] Ideas: three parked ideas written (sponsorship / partnership, Mandir donation box + QR, club merch store)

@@ -2,7 +2,7 @@
 
 Our current responsibilities. Follow up on these in subsequent meetings.
 
-See also: [structure.md](structure.md) · [ratification.md](ratification.md) · [open.md](open.md)
+See also: [structure.md](structure.md) · [ratification.md](ratification.md) · [tracker.md](tracker.md)
 
 ---
 
@@ -12,6 +12,7 @@ Co-Presidents · Status: In progress
 
 - Meet and come up with a unified plan for the year so both presidents are aligned before the co-exec meeting and before handing work out to VPs
 - Join the ratification meeting with Shivali Sharma (alongside Krishna and Arnav) so presidents understand the docs and process
+- Ask Himani or Shivali who the 15A exclusive-use contact is, then ask that person directly (short conversation once we find the right person; see [space.md](space.md))
 
 ---
 
@@ -54,7 +55,7 @@ Internal · Status: Not started
 
 ---
 
-### Sanita & Ivneet
+### Sanmita & Ivneet
 
 Finance · Status: Not started
 

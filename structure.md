@@ -19,7 +19,7 @@ See also: [responsibilities.md](responsibilities.md) · [ratification.md](ratifi
 | Shivan        | Events            |
 | Nidhi         | External          |
 | Anishka       | Internal          |
-| Sanita        | Finance           |
+| Sanmita        | Finance           |
 | Ivneet        | Finance           |
 | Anish         | Comms             |
 | Praven        | Mandir            |
@@ -46,7 +46,7 @@ Club-to-club and outside relationships: partnerships, co-events, outreach to oth
 
 Member-facing and club-ops work: membership lists, volunteer coordination, meeting logistics, internal communication, retention, and making sure people feel plugged into the club. Often the glue between execs and general members.
 
-### Finance (Sanita, Ivneet)
+### Finance (Sanmita, Ivneet)
 
 Budgeting, tracking spending, reimbursements, funding applications (USC / faculty / grants), and keeping event costs within approved asks. Sign-off and record-keeping so the club stays clean for ratification and audits. See [budget.md](budget.md).
 

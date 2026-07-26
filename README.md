@@ -9,7 +9,7 @@ Co-Presidents: Abhay Manoj, Ananya Chopra
 
 | File                                         | What's in it                                                                    |
 | -------------------------------------------- | ------------------------------------------------------------------------------- |
-| [open.md](open.md)                           | Done vs still-open checklist for the whole plan                                 |
+| [tracker.md](tracker.md)                     | Done vs still-open checklist for the whole plan                                 |
 | [structure.md](structure.md)                 | Full club structure + role notes                                                |
 | [responsibilities.md](responsibilities.md)   | Current asks per person / team; follow up after meetings                        |
 | [academic-calendar.md](academic-calendar.md) | Western Fall / Winter dates, Reading Weeks, exams, ratification deadline        |
