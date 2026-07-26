@@ -20,7 +20,7 @@ See also: [events.md](events.md) · [hindu-calendar.md](hindu-calendar.md) · [r
 
 | Date        | What                                                  |
 | ----------- | ----------------------------------------------------- |
-| Sept 7 - 12 | OWeek (walkby opportunity)                            |
+| Sept 7 - 12 | OWeek (walk-by opportunity)                           |
 | Sept 9      | Fall classes begin                                    |
 | Oct 10 - 18 | Fall Reading Week                                     |
 | Oct 15      | Ratification deadline: USC submission / documents due |

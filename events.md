@@ -11,10 +11,10 @@ See also: [academic-calendar.md](academic-calendar.md) · [hindu-calendar.md](hi
 
 | #   | Event                                                        | Target date                   | Timing                        | Estimated cost |
 | --- | ------------------------------------------------------------ | ----------------------------- | ----------------------------- | -------------- |
-| 1   | [OWeek](#event-1-oweek)                                      | Mon - Sat, Sept 7 - 12, 2026      | Orientation Week              | *TBD*          |
-| 2   | [Ganesh Chaturthi](#event-2-ganesh-chaturthi)                | Mon, Sep 14, 2026             | First week of Fall classes    | *TBD*          |
+| 1   | [OWeek](#event-1-oweek)                                      | Mon - Sat, Sept 7 - 12, 2026  | Orientation Week              | *TBD*          |
+| 2   | [Ganesh Chaturthi](#event-2-ganesh-chaturthi)                | Mon, Sept 14, 2026            | Early week 2 of Fall classes  | *TBD*          |
 | 3   | [Diwali (Lakshmi Puja)](#event-3-diwali)                     | On / around Sun, Nov 8, 2026  | Fall midterm season           | *TBD*          |
-| 4   | [Makar Sankranti / Pongal](#event-4-makar-sankranti--pongal) | Thu - Fri, Jan 14 - 15, 2027      | Second week of Winter classes | *TBD*          |
+| 4   | [Makar Sankranti / Pongal](#event-4-makar-sankranti--pongal) | Thu - Fri, Jan 14 - 15, 2027  | Week 2 of Winter classes      | *TBD*          |
 | 5   | [Holi](#event-5-holi)                                        | On / around Mon, Mar 22, 2027 | After Winter Reading Week     | *TBD*          |
 
 
@@ -32,6 +32,7 @@ These apply to every main event. This is a shared checklist; put only event-spec
 
 - Booking / securing the space (multifaith & others)
 - Budget share within the $650 year ceiling
+- **Get Finance approval before spending** (see [budget.md](budget.md))
 - Marketing and promotion, plus timelines
 - **Permits & Cleanup**
 - Overcrowding (?)
@@ -42,7 +43,7 @@ These apply to every main event. This is a shared checklist; put only event-spec
 
 Target date: Mon - Sat, Sept 7 - 12, 2026 (Orientation Week)
 
-`@bringup[Ananya]`: Decide the OWeek format, which day(s) we run, and what the station looks like.
+`@bringup[Ananya, Ishani, Shivan]`: Decide the OWeek format, which day(s) we run, and what the station looks like.
 
 *TBD: format, exact day(s), and station setup*
 
@@ -57,9 +58,9 @@ Notes / to figure out:
 
 ## Event 2: Ganesh Chaturthi
 
-Target date: Mon, Sep 14, 2026 (first week of Fall classes)
+Target date: Mon, Sept 14, 2026 (early week 2 of Fall classes)
 
-`@bringup[Ananya]`: Align on the Ganesh Chaturthi plan (vibe, inside/outside, itinerary, and discussion).
+`@bringup[Ananya, Ishani, Shivan]`: Align on the Ganesh Chaturthi plan (vibe, inside/outside, itinerary, and discussion).
 
 Vibe: Chill, social, low-pressure. An introduction event that is easy for new people to walk in, talk to us or strangers, and get a feel for the club.
 
@@ -101,9 +102,9 @@ Notes / to figure out:
 
 ## Event 4: Makar Sankranti / Pongal
 
-Target date: Thu - Fri, Jan 14 - 15, 2027 (second week of Winter classes)
+Target date: Thu - Fri, Jan 14 - 15, 2027 (week 2 of Winter classes)
 
-`@bringup[Ananya]`: Align on the Makar Sankranti / Pongal vibe and format (welcome-back social like Ganesh).
+`@bringup[Ananya, Ishani, Shivan]`: Align on the Makar Sankranti / Pongal vibe and format (welcome-back social like Ganesh).
 
 Vibe: Same energy as Ganesh. Chill welcome-back social for semester 2 (not a second Diwali/Holi-scale production).
 

@@ -11,6 +11,7 @@ See also: [structure.md](structure.md) · [ratification.md](ratification.md) · 
 Co-Presidents · Status: In progress
 
 - Meet and come up with a unified plan for the year so both presidents are aligned before the co-exec meeting and before handing work out to VPs
+- Join the ratification meeting with Shivali Sharma (alongside Krishna and Arnav) so presidents understand the docs and process
 
 ---
 
@@ -30,6 +31,10 @@ Events · Status: Not started
 
 - Confirm the OWeek plan (table/booth, day(s), station setup)
 - Confirm the Ganesh Chaturthi plan (vibe, itinerary, venue timing)
+- Confirm the Diwali plan (date, time, format)
+- Confirm the Makar Sankranti / Pongal plan (vibe, format, exact night)
+- Confirm the Holi plan (date, time, format)
+- Map event expenditure / rough costs for the five main events (check in with Finance; see [budget.md](budget.md))
 
 ---
 
@@ -53,7 +58,13 @@ Internal · Status: Not started
 
 Finance · Status: Not started
 
-- *TBD*
+- Set and maintain a spending buffer against the $650 ceiling; do not plan to spend the full amount
+- Approve all purchases before money is spent
+- Flag / disapprove any planned spend that looks too expensive or not worth the cost
+- Track and hold onto every receipt for club purchases
+- Keep an up-to-date running log of all spending against the $650 ceiling
+- Own the reimbursement paperwork process once ratification succeeds
+- Figure out how we move club funds into a proper bank account (required for ratification; money should not stay in a personal account)
 
 ---
 
@@ -69,7 +80,7 @@ Comms · Status: Not started
 
 Mandir · Status: Not started
 
-- Confirm puja length and format for Ganesh Chaturthi with Events / presidents
+- Confirm pooja length and format for Ganesh Chaturthi with Events / presidents
 
 ---
 
