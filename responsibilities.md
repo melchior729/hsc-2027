@@ -14,6 +14,9 @@ Co-Presidents · Status: In progress
 - Join the ratification meeting with Shivali (alongside Krishna and Arnav) so presidents understand the docs and process
 - Help build the USC ratification checklist in [ratification.md](ratification.md) (with Krishna, Arnav, and Himani)
 - Ask Himani or Shivali who the 15A exclusive-use contact is, then ask that person directly (short conversation once we find the right person; see [location.md](location.md))
+- Create the VP onboarding presentation
+- Create the VP expectations contract
+- Step in wherever a portfolio is slow or needs help, across any VP team
 
 ---
 
@@ -57,7 +60,11 @@ External · Status: Not started
 
 Internal · Status: Not started
 
-- *TBD*
+- Own Western HSC email access and organization
+- Own Google Drive structure (folders, templates, permissions)
+- Take minutes at every exec meeting and keep them recorded / organized
+- Work with Abhay and Ananya on exec socials (`@bringup[Ananya]`: maybe 1 per month, not locked yet)
+- Build and run the director hiring form: consult each VP team on how many directors they need and what questions fit their portfolio (questions differ by team, e.g. Events vs Comms vs Finance); form should be live at the start of the year
 
 ---
 

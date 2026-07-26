@@ -32,7 +32,7 @@ See also: [responsibilities.md](responsibilities.md) · [ratification.md](ratifi
 
 ### Co-Presidents (Abhay, Ananya)
 
-Own big-picture planning, major decisions, and overall direction for the year. Align the exec team and hand work to VPs. Concrete tasks live in [responsibilities.md](responsibilities.md).
+Own big-picture planning, major decisions, and overall direction for the year. Align the exec team and hand work to VPs. Presidents also step in wherever a portfolio is running slow or needs extra support, across any VP team. Concrete tasks live in [responsibilities.md](responsibilities.md).
 
 ### Executive Officers (Krishna, Arnav)
 
@@ -48,7 +48,7 @@ Club-to-club and outside relationships: partnerships, outreach, and representing
 
 ### Internal VP (Anishka)
 
-*TBD*
+Owns club-facing infrastructure: email, Drive, meeting minutes, exec socials, and the director hiring process across all VP teams. See [responsibilities.md](responsibilities.md).
 
 ### Finance VP (Sanmita, Ivneet)
 

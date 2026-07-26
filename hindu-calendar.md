@@ -9,7 +9,7 @@ See also: [events.md](events.md) · [academic-calendar.md](academic-calendar.md)
 ## Handling types
 
 - **Post:** Social media post on the day (mandatory for everything on this list)
-- **Pooja / aarti:** for larger days, hold a pooja or aarti (likely 15A)
+- **Pooja / aarti:** for larger days, hold a pooja or aarti (likely 15A). `@bringup[Ananya]`: Confirm format, frequency, and who is involved beyond Praven.
 - **Celebrate:** full event; reserved for the main 5 in [events.md](events.md) (OWeek, Ganesh Chaturthi, Diwali, Makar Sankranti / Pongal, Holi)
 
 Handling column is intentionally mostly blank for non-main days. Fill it in as the schedule builds.
