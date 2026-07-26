@@ -44,7 +44,7 @@ Design and run events: format, logistics, space bookings, and day-of execution. 
 
 ### External VP (Nidhi)
 
-Club-to-club and outside relationships: partnerships, outreach, and representing HSC externally. Owns the network record in [connections.md](connections.md). Often involved in collaboration, guest invites, community / temple connections, and longer pushes like the dedicated Hindu room. See [location.md](location.md).
+Club-to-club and outside relationships: partnerships, outreach, and representing HSC externally. Largely controls [connections.md](connections.md) (anyone can add a contact; Nidhi keeps it current). Often involved in collaboration, guest invites, community / temple connections, and longer pushes like the dedicated Hindu room. See [location.md](location.md).
 
 ### Internal VP (Anishka)
 
@@ -64,4 +64,4 @@ Owns pooja and ritual practice: mantras, ceremony knowledge, and care of the phy
 
 ### Senior Advisor (Himani)
 
-*TBD*
+Was in the club last year. Institutional memory and advice: past contacts, what worked / did not, and context presidents and VPs can ask for. Primary support right now is ratification, helping Krishna and Arnav alongside Shivali. Not day-to-day ops. See [ratification.md](ratification.md).

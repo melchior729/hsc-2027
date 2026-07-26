@@ -2,6 +2,8 @@
 
 Important people that will prove to be useful.
 
+Anyone can add a contact, but Nidhi largely controls this file.
+
 See also: [ratification.md](ratification.md) · [responsibilities.md](responsibilities.md) · [location.md](location.md)
 
 ---

@@ -47,7 +47,7 @@ External · Status: Not started
 - Put HSC in a strong, likeable position with other clubs so they are willing to collaborate,  or support us when it matters
 - Lead outreach for the dedicated Hindu room coalition: identify which clubs (likely South Asian or faith-based) would join the push and start those conversations (see [location.md](location.md))
 - Aid in representing HSC in inter-club contexts generally: guest invites, events, community / temple connections as they come up
-- Own and maintain [connections.md](connections.md), a running record of HSC's network (people, clubs, contacts we have an "in" with); keep it updated as new relationships form
+- Own and maintain [connections.md](connections.md) as the main keeper of HSC's network record (anyone can add a contact; Nidhi keeps the list tidy and current)
 
 ---
 
@@ -93,5 +93,7 @@ Mandir · Status: Not started
 
 Senior Advisor · Status: Not started
 
-- *TBD*
+- Support Krishna and Arnav on ratification: share what she remembers from last year, and flag anything that has changed
+- Help track down or clarify ratification information alongside Shivali
+- General institutional knowledge on request: past contacts, what worked / did not in prior years
 
