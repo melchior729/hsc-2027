@@ -1,12 +1,12 @@
 # Structure
 
-Roster and role notes.
+List of club members and role notes.
 
 See also: [responsibilities.md](responsibilities.md) · [ratification.md](ratification.md) · [events.md](events.md) · [budget.md](budget.md) · [content.md](content.md) · [location.md](location.md)
 
 ---
 
-## Leadership
+## Members
 
 
 | Name          | Role              |
@@ -19,7 +19,7 @@ See also: [responsibilities.md](responsibilities.md) · [ratification.md](ratifi
 | Shivan        | Events            |
 | Nidhi         | External          |
 | Anishka       | Internal          |
-| Sanmita        | Finance           |
+| Sanmita       | Finance           |
 | Ivneet        | Finance           |
 | Anish         | Comms             |
 | Praven        | Mandir            |

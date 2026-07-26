@@ -11,7 +11,7 @@ See also: [ratification.md](ratification.md) · [responsibilities.md](responsibi
 
 | Name             | Relation                        | Email                                   | Phone | Reason                                                                              |
 | ---------------- | ------------------------------- | --------------------------------------- | ----- | ----------------------------------------------------------------------------------- |
-| Shivali Sharma   | President last year             | *TBD*                                   | *TBD* | Strong on club ops and ratification documents. Must have a meeting to discuss.      |
+| Shivali Sharma   | First President                 | *TBD*                                   | *TBD* | Strong on club ops and ratification documents. Must have a meeting to discuss.      |
 | Vinod Varapravan | Guide                           | *TBD*                                   | *TBD* | Krishna's dad; associated with Chinmaya Mission. Important community connect.       |
 | David Sisson     | Western Hindu Spiritual Advisor | [dsisson@uwo.ca](mailto:dsisson@uwo.ca) | *TBD* | Chill, and Western staff. Could be very useful when navigating university channels. |
 
