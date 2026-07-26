@@ -12,7 +12,7 @@ Co-Presidents · Status: In progress
 
 - Meet and come up with a unified plan for the year so both presidents are aligned before the co-exec meeting and before handing work out to VPs
 - Join the ratification meeting with Shivali Sharma (alongside Krishna and Arnav) so presidents understand the docs and process
-- Ask Himani or Shivali who the 15A exclusive-use contact is, then ask that person directly (short conversation once we find the right person; see [space.md](space.md))
+- Ask Himani or Shivali who the 15A exclusive-use contact is, then ask that person directly (short conversation once we find the right person; see [location.md](location.md))
 
 ---
 
@@ -43,7 +43,11 @@ Events · Status: Not started
 
 External · Status: Not started
 
-- *TBD*
+- Build genuine relationships with other clubs on campus: genuine networking
+- Put HSC in a strong, likeable position with other clubs so they are willing to collaborate,  or support us when it matters
+- Lead outreach for the dedicated Hindu room coalition: identify which clubs (likely South Asian or faith-based) would join the push and start those conversations (see [location.md](location.md))
+- Aid in representing HSC in inter-club contexts generally: guest invites, events, community / temple connections as they come up
+- Own and maintain [connections.md](connections.md), a running record of HSC's network (people, clubs, contacts we have an "in" with); keep it updated as new relationships form
 
 ---
 

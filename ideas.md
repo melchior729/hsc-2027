@@ -2,7 +2,7 @@
 
 Things we could implement later. Not commitments.
 
-See also: [budget.md](budget.md) · [ratification.md](ratification.md) · [tracker.md](tracker.md) · [space.md](space.md) · [content.md](content.md)
+See also: [budget.md](budget.md) · [ratification.md](ratification.md) · [tracker.md](tracker.md) · [location.md](location.md) · [content.md](content.md)
 
 ---
 
@@ -31,7 +31,7 @@ Small physical donation box near the Mandir in 15A, paired with a QR code to a d
 | Status              | Idea only                                                                                                 |
 | Possible first task | Confirm whether USC / Western restricts clubs to specific donation platforms (ask during ratification)    |
 | Owner               | *TBD* (likely Finance + Praven)                                                                           |
-| Related             | Ratification may decide which giving platform is allowed; [space.md](space.md) and [budget.md](budget.md) |
+| Related             | Ratification may decide which giving platform is allowed; [location.md](location.md) and [budget.md](budget.md) |
 
 
 ---

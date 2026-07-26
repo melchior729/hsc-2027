@@ -2,7 +2,7 @@
 
 Important people that will prove to be useful.
 
-See also: [ratification.md](ratification.md) · [responsibilities.md](responsibilities.md) · [space.md](space.md)
+See also: [ratification.md](ratification.md) · [responsibilities.md](responsibilities.md) · [location.md](location.md)
 
 ---
 

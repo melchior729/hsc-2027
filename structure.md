@@ -2,7 +2,7 @@
 
 Roster and role notes.
 
-See also: [responsibilities.md](responsibilities.md) · [ratification.md](ratification.md) · [events.md](events.md) · [budget.md](budget.md) · [content.md](content.md) · [space.md](space.md)
+See also: [responsibilities.md](responsibilities.md) · [ratification.md](ratification.md) · [events.md](events.md) · [budget.md](budget.md) · [content.md](content.md) · [location.md](location.md)
 
 ---
 
@@ -56,7 +56,7 @@ Owns regular club Instagram: posts, stories, event promo, festival shoutouts, an
 
 ### Mandir (Praven)
 
-Owns pooja and ritual practice: mantras, ceremony knowledge, and care of the physical Mandir setup. Primary person for the religious / worship side of club activities. See [space.md](space.md).
+Owns pooja and ritual practice: mantras, ceremony knowledge, and care of the physical Mandir setup. Primary person for the religious / worship side of club activities. See [location.md](location.md).
 
 ### Senior Advisor (Himani)
 

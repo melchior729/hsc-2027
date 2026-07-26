@@ -2,7 +2,7 @@
 
 The five main events we are celebrating this year.
 
-See also: [academic-calendar.md](academic-calendar.md) · [hindu-calendar.md](hindu-calendar.md) · [budget.md](budget.md) · [space.md](space.md)
+See also: [academic-calendar.md](academic-calendar.md) · [hindu-calendar.md](hindu-calendar.md) · [budget.md](budget.md) · [location.md](location.md)
 
 ---
 

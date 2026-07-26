@@ -18,7 +18,7 @@ Co-Presidents: Abhay Manoj, Ananya Chopra
 | [budget.md](budget.md)                       | $650 ceiling, spending rules, Finance duties                                    |
 | [ratification.md](ratification.md)           | USC recognition goal, Oct 15 hand-in, Shivali next step                         |
 | [content.md](content.md)                     | Comms Instagram track, Production Team week rotation, event photography (*TBD*) |
-| [space.md](space.md)                         | 15A ops + Mandir, exclusive-use booking unknowns, dedicated room goal           |
+| [location.md](location.md)                         | 15A ops + Mandir, exclusive-use booking unknowns, dedicated room goal           |
 | [connections.md](connections.md)             | Outside contacts                                                                |
 | [ideas.md](ideas.md)                         | complimentary ideas only: sponsorship, mandir donation box + QR, merch store    |
 

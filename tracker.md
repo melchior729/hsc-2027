@@ -4,14 +4,15 @@ Track open work here and check items off as they get done.
 
 ## Files
 
-- [ ] Complete all planning files (structure, calendars, events, ratification, content, budget, space, connections, ideas, responsibilities)
+- [ ] Complete all planning files (structure, calendars, events, ratification, content, budget, location, connections, ideas, responsibilities)
 - [x] Academic calendar drafted → [academic-calendar.md](academic-calendar.md)
 - [x] Budget drafted → [budget.md](budget.md) (rules + Finance role filled; dollar amounts still TBD)
 - [x] Events drafted → [events.md](events.md) (needs confirmation from Ananya, Ishani, and Shivan)
-- [x] Responsibilities drafted for Co-Presidents, EOs, Events, Finance, and Mandir → [responsibilities.md](responsibilities.md)
+- [x] Responsibilities drafted for Co-Presidents, EOs, Events, External, Finance, and Mandir → [responsibilities.md](responsibilities.md)
 - [x] Connections drafted (preliminary; more contacts to be added) → [connections.md](connections.md)
 - [x] Hindu calendar drafted (handling types + Celebrate numbers aligned to events) → [hindu-calendar.md](hindu-calendar.md)
 - [x] Ideas drafted (sponsorship, donation box + QR, merch store) → [ideas.md](ideas.md)
+- [x] Location drafted (15A ops, cleaning, exclusive-use booking, dedicated Hindu room) → [location.md](location.md)
 
 ---
 
@@ -29,7 +30,8 @@ Track open work here and check items off as they get done.
 - [ ] Fill dollar amounts in the event budget breakdown against $650 → [budget.md](budget.md)
 - [ ] Decide which personal account holds funds for now + handoff plan once ratified (`@bringup[Ananya]`) → [budget.md](budget.md)
 - [ ] Move club funds into a proper bank account (required for ratification) → [budget.md](budget.md) / [responsibilities.md](responsibilities.md)
-- [ ] Fill remaining responsibilities still marked *TBD* (Nidhi, Anishka, Anish, Himani) → [responsibilities.md](responsibilities.md)
+- [ ] Fill remaining responsibilities still marked *TBD* (Anishka, Anish, Himani) → [responsibilities.md](responsibilities.md)
+- [ ] Ananya: find 15A exclusive-use contact via Himani or Shivali, then ask that person (`@bringup[Ananya]`) → [location.md](location.md) / [responsibilities.md](responsibilities.md)
 
 ### Ideas (not decided yet)
 
@@ -47,8 +49,7 @@ Track open work here and check items off as they get done.
 - [ ] Decide event photography / documentation ownership → [content.md](content.md)
 - [ ] Map USC ratification checklist from Shivali's docs; work backward from **Oct 15, 2026** → [ratification.md](ratification.md)
 - [ ] Assign handling (mandatory social post / pooja-aarti in 15A) to non-main days → [hindu-calendar.md](hindu-calendar.md)
-- [ ] Next concrete step for dedicated Hindu room push → [space.md](space.md)
-- [ ] Confirm 15A exclusive-use contact (ask Himani or Shivali) → [space.md](space.md) / [responsibilities.md](responsibilities.md)
+- [ ] Next concrete step for dedicated Hindu room push (Nidhi leads coalition outreach) → [location.md](location.md) / [responsibilities.md](responsibilities.md)
 - [ ] Add more contacts (USC staff, 15A, other clubs, temples) + fill emails / phones → [connections.md](connections.md)
 
 ---
@@ -58,7 +59,9 @@ Track open work here and check items off as they get done.
 - [x] Academic calendar: planning notes + Fall / Winter Break / Winter Term dates
 - [x] Events: five main events chosen with target dates, general considerations, and per-event notes (exact dates not locked for Diwali, Makar Sankranti, and Holi)
 - [x] Budget: $650 ceiling, spending rules, Finance responsibilities, event breakdown table scaffold
-- [x] Responsibilities: first asks written for Abhay & Ananya, Krishna & Arnav, Ishani & Shivan, Sanmita & Ivneet, Praven
-- [x] Connections: preliminary contact list (Shivali, Vinod, David Sisson)
+- [x] Responsibilities: first asks written for Abhay & Ananya, Krishna & Arnav, Ishani & Shivan, Nidhi, Sanmita & Ivneet, Praven
+- [x] Connections: preliminary contact list (Shivali, Vinod, David Sisson); Nidhi owns ongoing updates
 - [x] Hindu calendar: Celebrate numbers match events (#2 Ganesh through #5 Holi); Post = mandatory social media; pooja / aarti likely in 15A; Rath Yatra removed
 - [x] Ideas: three parked ideas written (sponsorship / partnership, Mandir donation box + QR, club merch store)
+- [x] Location: renamed from space; 15A naming; cleaning (whoever is there); dedicated Hindu room approach with Nidhi as External owner
+- [x] Renamed open.md → tracker.md; Multifaith → 15A everywhere; Sanita → Sanmita
