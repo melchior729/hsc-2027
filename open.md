@@ -11,6 +11,7 @@ Track open work here and check items off as they get done.
 - [x] Responsibilities drafted for Co-Presidents, EOs, Events, Finance, and Mandir → [responsibilities.md](responsibilities.md)
 - [x] Connections drafted (preliminary; more contacts to be added) → [connections.md](connections.md)
 - [x] Hindu calendar drafted (handling types + Celebrate numbers aligned to events) → [hindu-calendar.md](hindu-calendar.md)
+- [x] Ideas drafted (sponsorship, donation box + QR, merch store) → [ideas.md](ideas.md)
 
 ---
 
@@ -22,6 +23,7 @@ Track open work here and check items off as they get done.
 - [x] Responsibilities: first asks written for Abhay & Ananya, Krishna & Arnav, Ishani & Shivan, Sanita & Ivneet, Praven
 - [x] Connections: preliminary contact list (Shivali, Vinod, David Sisson)
 - [x] Hindu calendar: Celebrate numbers match events (#2 Ganesh through #5 Holi); Post = mandatory social media; pooja / aarti likely in 15A; Rath Yatra removed
+- [x] Ideas: three parked ideas written (sponsorship / partnership, Mandir donation box + QR, club merch store)
 
 ---
 
@@ -41,8 +43,15 @@ Track open work here and check items off as they get done.
 - [ ] Move club funds into a proper bank account (required for ratification) → [budget.md](budget.md) / [responsibilities.md](responsibilities.md)
 - [ ] Fill remaining responsibilities still marked *TBD* (Nidhi, Anishka, Anish, Himani) → [responsibilities.md](responsibilities.md)
 
+### Ideas (not decided yet)
+
+- [ ] Decide whether to pursue sponsorship / partnership funding (fill first task, owner, related) → [ideas.md](ideas.md)
+- [ ] Decide whether to pursue Mandir donation box + QR; confirm USC / Western donation platform rules during ratification → [ideas.md](ideas.md)
+- [ ] Decide whether to pursue club merch / print-on-demand store; confirm USC merch rules (ask with donation) → [ideas.md](ideas.md)
+
 ### Other files (not finished yet)
 
+- [ ] Fill README "How to use this" section → [README.md](README.md)
 - [ ] Confirm exact titles and any missing execs → [structure.md](structure.md)
 - [ ] Recruit directors under each VP team → [structure.md](structure.md)
 - [ ] Fill Production Team slots: Person X and Person Y → [content.md](content.md)
@@ -50,7 +59,6 @@ Track open work here and check items off as they get done.
 - [ ] Decide event photography / documentation ownership → [content.md](content.md)
 - [ ] Map USC ratification checklist from Shivali's docs; work backward from **Oct 15, 2026** → [ratification.md](ratification.md)
 - [ ] Assign handling (mandatory social post / pooja-aarti in 15A) to non-main days → [hindu-calendar.md](hindu-calendar.md)
-- [ ] Decide whether to pursue sponsorship / partnership idea (and who owns it) → [ideas.md](ideas.md)
 - [ ] Next concrete step for dedicated Hindu room push → [space.md](space.md)
 - [ ] Confirm 15A exclusive-use contact (ask Himani or Shivali) → [space.md](space.md)
 - [ ] Add more contacts (USC staff, 15A, other clubs, temples) + fill emails / phones → [connections.md](connections.md)
