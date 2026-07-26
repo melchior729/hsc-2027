@@ -13,7 +13,7 @@ See also: [responsibilities.md](responsibilities.md) · [connections.md](connect
 | ------------------- | ---------------------------------------------------------------------- |
 | Owners              | Executive Officers (Krishna, Arnav), with Co-President support         |
 | Submission deadline | Oct 15, 2026 (USC hand-in date for documents / application)            |
-| Immediate next step | Meeting with Shivali Sharma for process walkthrough and documents      |
+| Immediate next step | Meeting with Shivali for process walkthrough and documents             |
 | Status              | Not started / in progress (*TBD*)                                      |
 
 

@@ -11,7 +11,7 @@ See also: [structure.md](structure.md) · [ratification.md](ratification.md) · 
 Co-Presidents · Status: In progress
 
 - Meet and come up with a unified plan for the year so both presidents are aligned before the co-exec meeting and before handing work out to VPs
-- Join the ratification meeting with Shivali Sharma (alongside Krishna and Arnav) so presidents understand the docs and process
+- Join the ratification meeting with Shivali (alongside Krishna and Arnav) so presidents understand the docs and process
 - Ask Himani or Shivali who the 15A exclusive-use contact is, then ask that person directly (short conversation once we find the right person; see [location.md](location.md))
 
 ---
@@ -20,7 +20,7 @@ Co-Presidents · Status: In progress
 
 Executive Officers · Status: Not started
 
-- Set up a meeting with Shivali Sharma on ratification
+- Set up a meeting with Shivali on ratification
 - Get the ratification documents from her
 - Learn the full process and clarify what we still need before the Oct 15 USC submission deadline
 

@@ -2,7 +2,7 @@
 
 Planning docs for Western Hindu Students Council at Western University (USC club; not yet ratified).
 
-Co-Presidents: Abhay Manoj, Ananya Chopra
+Co-Presidents: Abhay, Ananya
 
 ---
 

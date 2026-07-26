@@ -25,7 +25,7 @@ Cadence: each person owns one week of the month. They get roughly one month to p
 
 | Slot   | Person      | Notes     |
 | ------ | ----------- | --------- |
-| Week 1 | Abhay Manoj | Confirmed |
+| Week 1 | Abhay       | Confirmed |
 | Week 2 | Krishna     | Confirmed |
 | Week 3 | Person X    | *TBD*     |
 | Week 4 | Person Y    | *TBD*     |
