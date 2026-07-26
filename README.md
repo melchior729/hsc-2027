@@ -7,20 +7,20 @@ Co-Presidents: Abhay, Ananya
 ---
 
 
-| File                                         | What's in it                                                                    |
-| -------------------------------------------- | ------------------------------------------------------------------------------- |
-| [tracker.md](tracker.md)                     | Done vs still-open checklist for the whole plan                                 |
-| [structure.md](structure.md)                 | Full club structure + role notes                                                |
-| [responsibilities.md](responsibilities.md)   | Current asks per person / team; follow up after meetings                        |
-| [academic-calendar.md](academic-calendar.md) | Western Fall / Winter dates, Reading Weeks, exams, ratification deadline        |
-| [hindu-calendar.md](hindu-calendar.md)       | Full Hindu calendar / events                                                    |
-| [events.md](events.md)                       | Main 5 events and documentation                                                 |
-| [budget.md](budget.md)                       | $650 ceiling, spending rules, Finance duties                                    |
-| [ratification.md](ratification.md)           | USC recognition goal, Oct 15 hand-in, Shivali next step                         |
-| [content.md](content.md)                     | Comms Instagram track, Production Team week rotation, event photography (*TBD*) |
-| [location.md](location.md)                         | 15A ops + Mandir, exclusive-use booking unknowns, dedicated room goal           |
-| [connections.md](connections.md)             | Outside contacts                                                                |
-| [ideas.md](ideas.md)                         | complimentary ideas only: sponsorship, mandir donation box + QR, merch store    |
+| File                                         | What's in it                                   |
+| -------------------------------------------- | ---------------------------------------------- |
+| [structure.md](structure.md)                 | Who exists, what roles mean                    |
+| [responsibilities.md](responsibilities.md)   | What everyone's actually doing right now       |
+| [tracker.md](tracker.md)                     | Overall status / progress at a glance          |
+| [academic-calendar.md](academic-calendar.md) | Constraints everything else has to work around |
+| [hindu-calendar.md](hindu-calendar.md)       | The full festival list this year draws from    |
+| [events.md](events.md)                       | The five main events, built from the above two |
+| [budget.md](budget.md)                       | Money rules tied to events                     |
+| [ratification.md](ratification.md)           | The big goal, tied to budget / legitimacy      |
+| [location.md](location.md)                   | Where things happen                            |
+| [content.md](content.md)                     | How it all gets documented / promoted          |
+| [connections.md](connections.md)             | Outside people who help across everything      |
+| [ideas.md](ideas.md)                         | optional; low priority                         |
 
 
 ---
