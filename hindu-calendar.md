@@ -1,4 +1,4 @@
-# Hindu calendar 2026-27
+# Hindu calendar 2026 - 27
 
 Full list of Hindu days to acknowledge through the year. How we handle each one is still being decided. The rough idea:
 
@@ -36,7 +36,7 @@ See also: [events.md](events.md) · [academic-calendar.md](academic-calendar.md)
 | Wed, Nov 11 | Bhai Dooj | Mid-Term | TBD |
 | Sun, Nov 15 | Chhath Puja | Mid-Term | TBD |
 | Tue, Nov 24 | Kartik Purnima (Dev Diwali) | Mid-Term | TBD |
-| Sun, Dec 20 | Geeta Jayanti | Inside Fall exam period (Dec 11-22) | TBD |
+| Sun, Dec 20 | Geeta Jayanti | Inside Fall exam period (Dec 11 - 22) | TBD |
 
 ## Winter Term 2027
 
@@ -50,7 +50,7 @@ See also: [events.md](events.md) · [academic-calendar.md](academic-calendar.md)
 | **Mon, Mar 22** | **Holi** (Holika Dahan Mar 21) | Mid-Term | **Celebrate: main event #4** |
 | Wed, Apr 7 | Ugadi / Gudi Padwa | 2 days before classes end (Apr 9) | TBD |
 | Apr 7 - 15 | Chaitra Navratri | Overlaps end of classes / start of exams | TBD |
-| Wed, Apr 14 | Vaisakhi | Inside Winter exam period (Apr 12-30) | TBD |
+| Wed, Apr 14 | Vaisakhi | Inside Winter exam period (Apr 12 - 30) | TBD |
 | Thu, Apr 15 | Ram Navami | Inside Winter exam period | TBD |
 | Tue, Apr 20 | Hanuman Jayanti | Inside Winter exam period | TBD |
 
