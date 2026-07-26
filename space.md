@@ -11,6 +11,20 @@ HSC's main operations sit in Western's **Multifaith Room**, a shared space open 
 
 See also: [structure.md](structure.md) (Mandir role)
 
+## Booking exclusive use
+
+What we know so far about locking the Multifaith Room for HSC-only use:
+
+| Question | Status |
+| --- | --- |
+| Exclusive use | Likely possible (based on past experience), but not confirmed |
+| Notice needed | Unknown |
+| Process for bigger events | Unknown |
+
+**Action:** Ask Himani or Shivali who the contact is, then ask that person directly. Probably a 5-minute conversation once we find the right person.
+
+---
+
 ## Goal: Dedicated Hindu room
 
 Advocate for a dedicated Hindu prayer / reflection room on campus (beyond the shared Multifaith Room closet Mandir), so worship and club use are not constantly competing with other groups for the same space.
