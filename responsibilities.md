@@ -34,7 +34,7 @@ Events · Status: Not started
 - Confirm the Diwali plan (date, time, format)
 - Confirm the Makar Sankranti / Pongal plan (vibe, format, exact night)
 - Confirm the Holi plan (date, time, format)
-- Map event expenditure / rough costs for the five main events (check in with Finance; see [budget.md](budget.md))
+- Map rough costs for the five main events and discuss the event budget with Finance, including the buffer Finance will keep against the $650 ceiling (see [budget.md](budget.md))
 
 ---
 

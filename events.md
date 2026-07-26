@@ -20,7 +20,7 @@ See also: [academic-calendar.md](academic-calendar.md) · [hindu-calendar.md](hi
 
 Owner: Events Team
 
-Exact dates and times are flexible. Confirm date, plan/book venue, then budget and promo. All five must fit inside the $650 year budget (Ganesh and Sankranti stay low-cost; Diwali and Holi cost more; OWeek is variable).
+Exact dates and times are flexible. Confirm date, plan/book venue, then budget and promo. Events must stay within the event budget that Finance allocates after setting a buffer against the $650 year ceiling (Ganesh and Sankranti stay low-cost; Diwali and Holi cost more; OWeek is variable).
 
 Why not other candidates: April festivals hit exams; Vasant Panchami is 2 days before Reading Week; Maha Shivaratri (Mar 6) is only about 16 days before Holi and would cause burnout. See [hindu-calendar.md](hindu-calendar.md) for other dates.
 
@@ -31,7 +31,7 @@ Why not other candidates: April festivals hit exams; Vasant Panchami is 2 days b
 These apply to every main event. This is a shared checklist; put only event-specific notes under each event below.
 
 - Booking / securing the space (multifaith & others)
-- Budget share within the $650 year ceiling
+- Discuss the event budget and Finance's buffer against the $650 year ceiling
 - **Get Finance approval before spending** (see [budget.md](budget.md))
 - Marketing and promotion, plus timelines
 - **Permits & Cleanup**
