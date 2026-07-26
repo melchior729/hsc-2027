@@ -8,7 +8,7 @@ See also: [structure.md](structure.md) · [events.md](events.md) · [connections
 
 ## Current space
 
-HSC's main operations sit in Western's Multifaith Room, a shared space open to people of other faiths as well.
+HSC's main operations sit in Western's 15A, a shared space open to people of other faiths as well.
 
 - We keep a physical Mandir in a tall closet / cupboard there: open it and the murti, ritual items, and related materials are set up inside
 - Because the room is shared, scheduling clashes happen (our practice vs other groups). That is unfair on both sides and is part of why a dedicated Hindu space would help
@@ -19,7 +19,7 @@ Praven looks after this Mandir setup day to day.
 
 ## Booking exclusive use
 
-What we know so far about locking the Multifaith Room for HSC-only use:
+What we know so far about locking 15A for HSC-only use:
 
 
 | Question                 | Status                                              |
@@ -35,7 +35,7 @@ Action: Ask Himani or Shivali who the contact is, then ask that person directly.
 
 ## Goal: Dedicated Hindu room
 
-Advocate for a dedicated Hindu prayer / reflection room on campus (beyond the shared Multifaith Room closet Mandir), so worship and club use are not constantly competing with other groups for the same space.
+Advocate for a dedicated Hindu prayer / reflection room on campus (beyond the shared 15A closet Mandir), so worship and club use are not constantly competing with other groups for the same space.
 
 
 | Item    | Detail                                                                              |

@@ -8,8 +8,8 @@ See also: [events.md](events.md) · [academic-calendar.md](academic-calendar.md)
 
 ## Handling types
 
-- **Post:** Instagram post on the day (baseline for everything on this list)
-- **Pooja / aarti:** for larger days, hold a pooja or aarti (likely Multifaith Room / Mandir)
+- **Post:** Social media post on the day (mandatory for everything on this list)
+- **Pooja / aarti:** for larger days, hold a pooja or aarti (likely 15A)
 - **Celebrate:** full event; reserved for the main 5 in [events.md](events.md) (OWeek, Ganesh Chaturthi, Diwali, Makar Sankranti / Pongal, Holi)
 
 Handling column is intentionally mostly blank for non-main days. Fill it in as the schedule builds.
@@ -21,7 +21,6 @@ Handling column is intentionally mostly blank for non-main days. Fill it in as t
 
 | Date         | Event           | Academic context | Handling |
 | ------------ | --------------- | ---------------- | -------- |
-| Thu, Jul 16  | Rath Yatra      | Summer Break     | *TBD*    |
 | Wed, Jul 29  | Guru Purnima    | Summer Break     | *TBD*    |
 | Wed, Aug 26  | Onam            | Pre-Term         | *TBD*    |
 | Fri, Aug 28  | Raksha Bandhan  | Pre-Term         | *TBD*    |
@@ -35,14 +34,14 @@ Handling column is intentionally mostly blank for non-main days. Fill it in as t
 | Date              | Event                           | Academic context                          | Handling                                        |
 | ----------------- | ------------------------------- | ----------------------------------------- | ----------------------------------------------- |
 | Fri, Sept 4       | Krishna Janmashtami             | Before OWeek starts (Sept 7)              | *TBD*                                           |
-| Mon, Sept 14      | Ganesh Chaturthi                | Early week 2 of Fall classes              | **Celebrate: main event #1** (aarti + intro social) |
+| Mon, Sept 14      | Ganesh Chaturthi                | Early week 2 of Fall classes              | **Celebrate: main event #2** (aarti + intro social) |
 | Fri, Sept 25      | Anant Chaturdashi (Ganesh Visarjan) | Mid-Term                              | *TBD*                                           |
 | Sept 26 - Oct 10  | Pitru Paksha & Mahalaya         | Leading up to Fall Reading Week           | *TBD*                                           |
 | Oct 11 - 19       | Sharad Navratri                 | Inside Fall Reading Week                  | *TBD*                                           |
 | Tue, Oct 20       | Dussehra (Vijayadashami)        | Post-Reading Week                         | *TBD*                                           |
 | Wed, Oct 28       | Karva Chauth                    | Mid-Term                                  | *TBD*                                           |
 | Fri, Nov 6        | Dhanteras                       | Mid-Term (start of Diwali weekend)        | *TBD*                                           |
-| Sun, Nov 8        | Diwali (Lakshmi Puja)           | Mid-Term                                  | **Celebrate: main event #2**                    |
+| Sun, Nov 8        | Diwali (Lakshmi Puja)           | Mid-Term                                  | **Celebrate: main event #3**                    |
 | Mon, Nov 9        | Govardhan Puja                  | Mid-Term (day after Diwali)               | *TBD*                                           |
 | Wed, Nov 11       | Bhai Dooj                       | Mid-Term                                  | *TBD*                                           |
 | Sun, Nov 15       | Chhath Puja                     | Mid-Term                                  | *TBD*                                           |
@@ -58,11 +57,11 @@ Handling column is intentionally mostly blank for non-main days. Fill it in as t
 | Date           | Event                          | Academic context                               | Handling                                              |
 | -------------- | ------------------------------ | ---------------------------------------------- | ----------------------------------------------------- |
 | Wed, Jan 13    | Lohri                          | Week 2 of Winter classes                       | *TBD*                                                 |
-| Jan 14 - 15    | Makar Sankranti / Pongal       | Week 2 of Winter classes                       | **Celebrate: main event #3** (welcome-back social)    |
+| Jan 14 - 15    | Makar Sankranti / Pongal       | Week 2 of Winter classes                       | **Celebrate: main event #4** (welcome-back social)    |
 | Fri, Jan 22    | Thaipusam                      | Third week of classes                          | *TBD*                                                 |
 | Thu, Feb 11    | Vasant Panchami                | 2 days before Reading Week (Feb 13)            | *TBD*                                                 |
 | Sat, Mar 6     | Maha Shivaratri                | Clear weekend                                  | *TBD*                                                 |
-| Mon, Mar 22    | Holi (Holika Dahan Mar 21)     | Mid-Term                                       | **Celebrate: main event #4**                          |
+| Mon, Mar 22    | Holi (Holika Dahan Mar 21)     | After Winter Reading Week                      | **Celebrate: main event #5**                          |
 | Wed, Apr 7     | Ugadi / Gudi Padwa             | 2 days before classes end (Apr 9)              | *TBD*                                                 |
 | Apr 7 - 15     | Chaitra Navratri               | Overlaps end of classes / start of exams       | *TBD*                                                 |
 | Wed, Apr 14    | Vaisakhi                       | Inside Winter exam period (Apr 12 - 30)        | *TBD*                                                 |

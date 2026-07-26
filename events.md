@@ -30,7 +30,7 @@ Why not other candidates: April festivals hit exams; Vasant Panchami is 2 days b
 
 These apply to every main event. This is a shared checklist; put only event-specific notes under each event below.
 
-- Booking / securing the space (multifaith & others)
+- Booking / securing the space (15A & others)
 - Discuss the event budget and Finance's buffer against the $650 year ceiling
 - **Get Finance approval before spending** (see [budget.md](budget.md))
 - Marketing and promotion, plus timelines
@@ -74,7 +74,7 @@ Signup: QR code and physical signing sheet so people can join on the spot.
 
 Notes / to figure out:
 
-- Book the space early (first week of classes; start ASAP)
+- Book the space early (early week 2 of Fall classes; start ASAP)
 - Pooja material requirements
 - Sweets / chai / snack offerings (Modak)
 - Playlist and bringing a speaker

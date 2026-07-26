@@ -10,6 +10,7 @@ Track open work here and check items off as they get done.
 - [x] Events drafted → [events.md](events.md) (needs confirmation from Ananya, Ishani, and Shivan)
 - [x] Responsibilities drafted for Co-Presidents, EOs, Events, Finance, and Mandir → [responsibilities.md](responsibilities.md)
 - [x] Connections drafted (preliminary; more contacts to be added) → [connections.md](connections.md)
+- [x] Hindu calendar drafted (handling types + Celebrate numbers aligned to events) → [hindu-calendar.md](hindu-calendar.md)
 
 ---
 
@@ -19,6 +20,8 @@ Track open work here and check items off as they get done.
 - [x] Events: five main events chosen with target dates, general considerations, and per-event notes (exact dates not locked for Diwali, Makar Sankranti, and Holi)
 - [x] Budget: $650 ceiling, spending rules, Finance responsibilities, event breakdown table scaffold
 - [x] Responsibilities: first asks written for Abhay & Ananya, Krishna & Arnav, Ishani & Shivan, Sanita & Ivneet, Praven
+- [x] Connections: preliminary contact list (Shivali, Vinod, David Sisson)
+- [x] Hindu calendar: Celebrate numbers match events (#2 Ganesh through #5 Holi); Post = mandatory social media; pooja / aarti likely in 15A; Rath Yatra removed
 
 ---
 
@@ -46,8 +49,8 @@ Track open work here and check items off as they get done.
 - [ ] Lock Production Team week rotation order → [content.md](content.md)
 - [ ] Decide event photography / documentation ownership → [content.md](content.md)
 - [ ] Map USC ratification checklist from Shivali's docs; work backward from **Oct 15, 2026** → [ratification.md](ratification.md)
-- [ ] Assign handling (post / pooja-aarti) to non-main days → [hindu-calendar.md](hindu-calendar.md)
+- [ ] Assign handling (mandatory social post / pooja-aarti in 15A) to non-main days → [hindu-calendar.md](hindu-calendar.md)
 - [ ] Decide whether to pursue sponsorship / partnership idea (and who owns it) → [ideas.md](ideas.md)
 - [ ] Next concrete step for dedicated Hindu room push → [space.md](space.md)
-- [ ] Confirm Multifaith exclusive-use contact (ask Himani or Shivali) → [space.md](space.md)
-- [ ] Add more contacts (USC staff, Multifaith, other clubs, temples) + fill emails / phones → [connections.md](connections.md)
+- [ ] Confirm 15A exclusive-use contact (ask Himani or Shivali) → [space.md](space.md)
+- [ ] Add more contacts (USC staff, 15A, other clubs, temples) + fill emails / phones → [connections.md](connections.md)

@@ -16,4 +16,4 @@ See also: [ratification.md](ratification.md) · [responsibilities.md](responsibi
 | David Sisson     | Western Hindu Spiritual Advisor | [dsisson@uwo.ca](mailto:dsisson@uwo.ca) | *TBD* | Chill, and Western staff. Could be very useful when navigating university channels. |
 
 
-Add more contacts here as they come up: USC staff, Multifaith, other clubs, temples, etc.
+Add more contacts here as they come up: USC staff, 15A, other clubs, temples, etc.
