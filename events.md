@@ -6,27 +6,15 @@ See also: [academic-calendar.md](academic-calendar.md) · [hindu-calendar.md](hi
 
 ---
 
-## Contents
-
-1. [Main events overview](#main-events-overview)
-2. [General considerations](#general-considerations)
-3. [Event 1: OWeek](#event-1-oweek)
-4. [Event 2: Ganesh Chaturthi](#event-2-ganesh-chaturthi)
-5. [Event 3: Diwali](#event-3-diwali)
-6. [Event 4: Makar Sankranti / Pongal](#event-4-makar-sankranti--pongal)
-7. [Event 5: Holi](#event-5-holi)
-
----
-
 ## Main events overview
 
 
 | #   | Event                                                        | Target date                   | Timing                        | Estimated cost |
 | --- | ------------------------------------------------------------ | ----------------------------- | ----------------------------- | -------------- |
-| 1   | [OWeek](#event-1-oweek)                                      | Mon-Sat, Sept 7-12, 2026      | Orientation Week              | *TBD*          |
+| 1   | [OWeek](#event-1-oweek)                                      | Mon - Sat, Sept 7 - 12, 2026      | Orientation Week              | *TBD*          |
 | 2   | [Ganesh Chaturthi](#event-2-ganesh-chaturthi)                | Mon, Sep 14, 2026             | First week of Fall classes    | *TBD*          |
 | 3   | [Diwali (Lakshmi Puja)](#event-3-diwali)                     | On / around Sun, Nov 8, 2026  | Fall midterm season           | *TBD*          |
-| 4   | [Makar Sankranti / Pongal](#event-4-makar-sankranti--pongal) | Thu-Fri, Jan 14-15, 2027      | Second week of Winter classes | *TBD*          |
+| 4   | [Makar Sankranti / Pongal](#event-4-makar-sankranti--pongal) | Thu - Fri, Jan 14 - 15, 2027      | Second week of Winter classes | *TBD*          |
 | 5   | [Holi](#event-5-holi)                                        | On / around Mon, Mar 22, 2027 | After Winter Reading Week     | *TBD*          |
 
 
@@ -52,7 +40,7 @@ These apply to every main event. This is a shared checklist; put only event-spec
 
 ## Event 1: OWeek
 
-Target date: Mon-Sat, Sept 7-12, 2026 (Orientation Week)
+Target date: Mon - Sat, Sept 7 - 12, 2026 (Orientation Week)
 
 `@bringup[Ananya]`: Decide the OWeek format, which day(s) we run, and what the station looks like.
 
@@ -113,7 +101,7 @@ Notes / to figure out:
 
 ## Event 4: Makar Sankranti / Pongal
 
-Target date: Thu-Fri, Jan 14-15, 2027 (second week of Winter classes)
+Target date: Thu - Fri, Jan 14 - 15, 2027 (second week of Winter classes)
 
 `@bringup[Ananya]`: Align on the Makar Sankranti / Pongal vibe and format (welcome-back social like Ganesh).
 
