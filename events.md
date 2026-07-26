@@ -1,79 +1,145 @@
 # Events
 
----
-
-The five main events we are truly celebrating this year.
+The five main events we are celebrating this year.
 
 See also: [academic-calendar.md](academic-calendar.md) · [hindu-calendar.md](hindu-calendar.md) · [budget.md](budget.md) · [space.md](space.md)
 
+---
 
-| #     | Event                        | Target date                       | Timing                        | Estimated cost |
-| ----- | ---------------------------- | --------------------------------- | ----------------------------- | -------------- |
-| **1** | **OWeek**                    | **Mon-Sat, Sept 7-12, 2026**      | Orientation Week              | TBD            |
-| **2** | **Ganesh Chaturthi**         | **Mon, Sep 14, 2026**             | First week of Fall classes    | TBD            |
-| **3** | **Diwali (Lakshmi Puja)**    | On / around **Sun, Nov 8, 2026**  | Fall midterm season           | TBD            |
-| **4** | **Makar Sankranti / Pongal** | **Thu-Fri, Jan 14-15, 2027**      | Second week of Winter classes | TBD            |
-| **5** | **Holi**                     | On / around **Mon, Mar 22, 2027** | After Winter Reading Week     | TBD            |
+## Contents
 
-
-- **Owner:** Events (Ishani, Shivan), Presidium (Abhay, Ananya)
-- **Notes:** Exact dates/times are flexible. Confirm date → plan/book venue (4-6 wk in adv.) → budget → promo. All five must fit inside the **$650** year budget (OWeek + Ganesh + Sankranti stay low-cost; Diwali and Holi cost more).
-
-**Why not other candidates:** April festivals hit exams; Vasant Panchami is 2 days before Reading Week; Maha Shivaratri (Mar 6) is only ~16 days before Holi and would burn out Events/Finance. See hindu-calendar.md for other dates.
+1. [Main events overview](#main-events-overview)
+2. [General considerations](#general-considerations)
+3. [Event 1: OWeek](#event-1-oweek)
+4. [Event 2: Ganesh Chaturthi](#event-2-ganesh-chaturthi)
+5. [Event 3: Diwali](#event-3-diwali)
+6. [Event 4: Makar Sankranti / Pongal](#event-4-makar-sankranti--pongal)
+7. [Event 5: Holi](#event-5-holi)
 
 ---
 
-### Event 1: OWeek (Mon-Sat, Sept 7-12, 2026)
+## Main events overview
 
-**To be filled in.**
 
-**Notes / to figure out:**
+| #   | Event                                                        | Target date                   | Timing                        | Estimated cost |
+| --- | ------------------------------------------------------------ | ----------------------------- | ----------------------------- | -------------- |
+| 1   | [OWeek](#event-1-oweek)                                      | Mon-Sat, Sept 7-12, 2026      | Orientation Week              | *TBD*          |
+| 2   | [Ganesh Chaturthi](#event-2-ganesh-chaturthi)                | Mon, Sep 14, 2026             | First week of Fall classes    | *TBD*          |
+| 3   | [Diwali (Lakshmi Puja)](#event-3-diwali)                     | On / around Sun, Nov 8, 2026  | Fall midterm season           | *TBD*          |
+| 4   | [Makar Sankranti / Pongal](#event-4-makar-sankranti--pongal) | Thu-Fri, Jan 14-15, 2027      | Second week of Winter classes | *TBD*          |
+| 5   | [Holi](#event-5-holi)                                        | On / around Mon, Mar 22, 2027 | After Winter Reading Week     | *TBD*          |
 
-- Exact day(s) and format within OWeek
-- Venue / station setup
-- Budget share within the $650 ceiling
 
-### Event 2: Ganesh Chaturthi (Mon, Sep 14, 2026)
+Owner: Events Team
 
-**Vibe:** Chill, social, low-pressure. Introduction event that is easy for new people to walk in, talk, and get a feel for the club.
+Exact dates and times are flexible. Confirm date, plan/book venue, then budget and promo. All five must fit inside the $650 year budget (Ganesh and Sankranti stay low-cost; Diwali and Holi cost more; OWeek is variable).
 
-**Rough run of show:**
+Why not other candidates: April festivals hit exams; Vasant Panchami is 2 days before Reading Week; Maha Shivaratri (Mar 6) is only about 16 days before Holi and would cause burnout. See [hindu-calendar.md](hindu-calendar.md) for other dates.
 
-1. **Aarti:** a few minutes, led by **Praven**
-2. **Club moment:** short talk on who we are, what we do, and how to join. Music in the background, nothing crazy.
-3. **Food and social:** sweets, snacks, chai; music on; people hang out and talk
+---
 
-**Signup:** QR code and/or a physical signup sheet at a table so people can join on the spot.
+## General considerations
 
-**Notes / to figure out:**
+These apply to every main event. This is a shared checklist; put only event-specific notes under each event below.
 
-- Venue (most likely multifaith)
-- Budget for sweets / chai / snacks (**must fit within the $650 year total**)
-- Who runs the club-moment talk
+- Booking / securing the space (multifaith & others)
+- Budget share within the $650 year ceiling
+- Marketing and promotion, plus timelines
+- **Permits & Cleanup**
+- Overcrowding (?)
 
-### Event 3: Diwali (on / around Sun, Nov 8, 2026)
+---
 
-**Notes / to figure out:**
+## Event 1: OWeek
+
+Target date: Mon-Sat, Sept 7-12, 2026 (Orientation Week)
+
+`@bringup[Ananya]`: Decide the OWeek format, which day(s) we run, and what the station looks like.
+
+*TBD: format, exact day(s), and station setup*
+
+Notes / to figure out:
+
+- **Can we even get a table or a booth?**
+- Exact day(s) within OWeek
+- QR Code to instagram/links
+- Station setup details
+
+---
+
+## Event 2: Ganesh Chaturthi
+
+Target date: Mon, Sep 14, 2026 (first week of Fall classes)
+
+`@bringup[Ananya]`: Align on the Ganesh Chaturthi plan (vibe, inside/outside, itinerary, and discussion).
+
+Vibe: Chill, social, low-pressure. An introduction event that is easy for new people to walk in, talk to us or strangers, and get a feel for the club.
+
+Itinerary:
+
+1. Pooja: led by Praven, length *TBD*
+2. Club discussion: who we are, what we do, goals, members, how to join, openings; music in the background, chill and laid back
+3. Food and social: sweets, snacks, chai; music on; people hang out and talk
+
+Signup: QR code and physical signing sheet so people can join on the spot.
+
+Notes / to figure out:
+
+- Book the space early (first week of classes; start ASAP)
+- Pooja material requirements
+- Sweets / chai / snack offerings (Modak)
+- Playlist and bringing a speaker
+- Signup sheets
+- Find an actual Ganesh murti
+- Financial Tracking
+- Club discussion speaker and content
+
+---
+
+## Event 3: Diwali
+
+Target date: on / around Sun, Nov 8, 2026 (Fall midterm season)
+
+`@bringup[Ishani, Shivan]`: Align on Diwali date, time, and format.
+
+*TBD: exact date, time, and format*
+
+Notes / to figure out:
 
 - Exact date and time
-- Venue and format
-- Budget share within the $650 ceiling
+- Format
 
-### Event 4: Makar Sankranti / Pongal (Thu-Fri, Jan 14-15, 2027)
+---
 
-**Vibe:** Same energy as Ganesh. Chill welcome-back social for semester 2 (not a second Diwali/Holi-scale production).
+## Event 4: Makar Sankranti / Pongal
 
-**Notes / to figure out:**
+Target date: Thu-Fri, Jan 14-15, 2027 (second week of Winter classes)
+
+`@bringup[Ananya]`: Align on the Makar Sankranti / Pongal vibe and format (welcome-back social like Ganesh).
+
+Vibe: Same energy as Ganesh. Chill welcome-back social for semester 2 (not a second Diwali/Holi-scale production).
+
+*TBD: exact night and full format*
+
+Notes / to figure out:
 
 - Exact night (Thu Jan 14 vs Fri Jan 15, or a combined Lohri-Sankranti framing)
-- Format (likely aarti + food/social, details TBD)
-- Venue
-- Budget share within the $650 ceiling
+- Same checklist as Ganesh: venue, food / chai / sweets, speaker and music, signup sheets, pooja materials if we do aarti, budget share, and who runs the room
+- Format (likely aarti + food/social)
 
-### Event 5: Holi (on / around Mon, Mar 22, 2027)
+---
 
-**Notes / to figure out:**
+## Event 5: Holi
 
+Target date: on / around Mon, Mar 22, 2027 (after Winter Reading Week)
+
+`@bringup[Ishani, Shivan]`: Align on Holi date, time, and format.
+
+*TBD: exact date, time, and format*
+
+Notes / to figure out:
+
+- **Permits & Cleanup**
 - Exact date and time
-- Venue and format
-- Budget share within the $650 ceiling
+- Format
+

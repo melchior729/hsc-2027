@@ -8,6 +8,7 @@ Planning docs for Western Hindu Students Council (Western University).
 
 | File | What's in it |
 | --- | --- |
+| [open.md](open.md) | Open / TBD checklist (mark items off here) |
 | [structure.md](structure.md) | Leadership, exec roster, role notes, directors |
 | [academic-calendar.md](academic-calendar.md) | Western academic dates (planning constraints) |
 | [hindu-calendar.md](hindu-calendar.md) | Full Hindu day list + post / puja / celebrate handling |
@@ -20,18 +21,4 @@ Planning docs for Western Hindu Students Council (Western University).
 | [connections.md](connections.md) | People we can lean on (e.g. Shivali Sharma) |
 | [ideas.md](ideas.md) | Parking lot for undecided ideas |
 
-## Open / TBD
-
-- [ ] Fill remaining **First responsibilities** rows for each VP → [responsibilities.md](responsibilities.md)
-- [ ] Schedule Shivali Sharma ratification meeting (Krishna, Arnav, Abhay, Ananya) → [ratification.md](ratification.md)
-- [ ] Confirm exact titles and any missing execs → [structure.md](structure.md)
-- [ ] Recruit directors under each VP team → [structure.md](structure.md)
-- [ ] Fill Production Team slots: Person X and Person Y → [content.md](content.md)
-- [ ] Lock Production Team week rotation order → [content.md](content.md)
-- [ ] Map USC ratification checklist from Shivali's docs; work backward from **Oct 15, 2026** → [ratification.md](ratification.md)
-- [ ] Lock exact dates/times for Diwali, Makar Sankranti, and Holi; book venues on the 4-6 week lead → [events.md](events.md)
-- [ ] Assign handling (post / puja-aarti) to non-main days → [hindu-calendar.md](hindu-calendar.md)
-- [ ] Build a $650 budget breakdown across the five main events → [budget.md](budget.md)
-- [ ] Decide whether to pursue sponsorship / partnership idea (and who owns it) → [ideas.md](ideas.md)
-- [ ] Next concrete step for dedicated Hindu room push → [space.md](space.md)
-- [ ] O-Week stations: plan around [academic-calendar.md](academic-calendar.md) and **$650** → [budget.md](budget.md)
+Open work lives in [open.md](open.md).

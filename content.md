@@ -28,3 +28,9 @@ A four-person team making **higher-production, genuinely watchable videos**, not
 
 
 *(Week order above is placeholder. Lock actual rotation later.)*
+
+## 3. Event photography / documentation
+
+Capturing our events (photos, video, story coverage) so we have material for posts and a record of the year.
+
+*TBD: who owns this (Comms?), gear, and how coverage gets assigned per event. Applies to every main event in [events.md](events.md).*
