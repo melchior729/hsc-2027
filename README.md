@@ -4,8 +4,6 @@ Planning docs for Western Hindu Students Council (Western University).
 
 Co-Presidents: Abhay Manoj, Ananya Chopra
 
-See also: [open.md](open.md)
-
 ---
 
 ## Status

@@ -1,6 +1,6 @@
 # Structure
 
-Leadership roster, role notes, and the target director layer.
+Roster and role notes.
 
 See also: [responsibilities.md](responsibilities.md) · [ratification.md](ratification.md) · [events.md](events.md) · [budget.md](budget.md) · [content.md](content.md) · [space.md](space.md)
 
@@ -9,32 +9,21 @@ See also: [responsibilities.md](responsibilities.md) · [ratification.md](ratifi
 ## Leadership
 
 
-| Role         | Name          |
-| ------------ | ------------- |
-| Co-President | Abhay Manoj   |
-| Co-President | Ananya Chopra |
-
-
-Presidents own big-picture planning, major decisions, and overall direction for the year.
-
----
-
-## Executive Team (Vice Presidents)
-
-
-| Name    | Role            |
-| ------- | --------------- |
-| Krishna | Executive Officer |
-| Arnav   | Executive Officer |
-| Ishani  | Events           |
-| Shivan  | Events           |
-| Nidhi   | External        |
-| Anishka | Internal        |
-| Sanita  | Finance         |
-| Ivneet  | Finance         |
-| Anish   | Comms           |
-| Praven  | Mandir          |
-| Himani  | Senior Advisor  |
+| Name          | Role              |
+| ------------- | ----------------- |
+| Abhay Manoj   | Co-President      |
+| Ananya Chopra | Co-President      |
+| Krishna       | Executive Officer |
+| Arnav         | Executive Officer |
+| Ishani        | Events            |
+| Shivan        | Events            |
+| Nidhi         | External          |
+| Anishka       | Internal          |
+| Sanita        | Finance           |
+| Ivneet        | Finance           |
+| Anish         | Comms             |
+| Praven        | Mandir            |
+| Himani        | Senior Advisor    |
 
 
 ---

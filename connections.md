@@ -1,6 +1,6 @@
 # Connections
 
-People outside the current exec table we can lean on for knowledge, documents, and introductions.
+Important people that will prove to be useful.
 
 See also: [ratification.md](ratification.md) · [responsibilities.md](responsibilities.md) · [space.md](space.md)
 
@@ -9,9 +9,11 @@ See also: [ratification.md](ratification.md) · [responsibilities.md](responsibi
 ## Contact list
 
 
-| Name              | Relation           | Why they matter                                                                                                                                 |
-| ----------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Shivali Sharma    | President last year | Strong on club ops and ratification documents. Has offered to meet with Krishna and Arnav, walk them through the process, and send documents. |
+| Name             | Relation                        | Email                                   | Phone | Reason                                                                              |
+| ---------------- | ------------------------------- | --------------------------------------- | ----- | ----------------------------------------------------------------------------------- |
+| Shivali Sharma   | President last year             | *TBD*                                   | *TBD* | Strong on club ops and ratification documents. Must have a meeting to discuss.      |
+| Vinod Varapravan | Guide                           | *TBD*                                   | *TBD* | Krishna's dad; associated with Chinmaya Mission. Important community connect.       |
+| David Sisson     | Western Hindu Spiritual Advisor | [dsisson@uwo.ca](mailto:dsisson@uwo.ca) | *TBD* | Chill, and Western staff. Could be very useful when navigating university channels. |
 
 
 Add more contacts here as they come up: USC staff, Multifaith, other clubs, temples, etc.

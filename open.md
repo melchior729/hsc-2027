@@ -9,6 +9,7 @@ Track open work here and check items off as they get done.
 - [x] Budget drafted → [budget.md](budget.md) (rules + Finance role filled; dollar amounts still TBD)
 - [x] Events drafted → [events.md](events.md) (needs confirmation from Ananya, Ishani, and Shivan)
 - [x] Responsibilities drafted for Co-Presidents, EOs, Events, Finance, and Mandir → [responsibilities.md](responsibilities.md)
+- [x] Connections drafted (preliminary; more contacts to be added) → [connections.md](connections.md)
 
 ---
 
@@ -49,3 +50,4 @@ Track open work here and check items off as they get done.
 - [ ] Decide whether to pursue sponsorship / partnership idea (and who owns it) → [ideas.md](ideas.md)
 - [ ] Next concrete step for dedicated Hindu room push → [space.md](space.md)
 - [ ] Confirm Multifaith exclusive-use contact (ask Himani or Shivali) → [space.md](space.md)
+- [ ] Add more contacts (USC staff, Multifaith, other clubs, temples) + fill emails / phones → [connections.md](connections.md)
