@@ -46,7 +46,7 @@ Full per-person tasks live in [responsibilities.md](responsibilities.md).
 
 ## Funds
 
-See [budget.md](budget.md) for full financial rules. Key ratification dependency: club funds must move out of a personal account (currently `@bringup[Ananya]`).
+See [budget.md](budget.md) for full financial rules. Key ratification dependency: club funds must move out of Ananya's personal account.
 
 ---
 

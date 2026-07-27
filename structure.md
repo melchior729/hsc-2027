@@ -44,7 +44,7 @@ Design and run events: format, logistics, space bookings, and day-of execution. 
 
 ### External VP (Nidhi)
 
-Club-to-club and outside relationships: partnerships, outreach, and representing HSC externally. Largely controls [connections.md](connections.md) (anyone can add a contact; Nidhi keeps it current). Often involved in collaboration, guest invites, community / temple connections, and longer pushes like the dedicated Hindu room. See [location.md](location.md).
+Club-to-club and outside relationships: partnerships, outreach, and representing HSC externally. Outreach runs from HSC's Instagram (not personal accounts), unless a personal connection is useful as a supplement. Largely controls [connections.md](connections.md) (anyone can add a contact; Nidhi keeps it current), including repopulating last year's contacts. Owns the 15A exclusive-use contact ask and the dedicated Hindu room coalition push. See [location.md](location.md).
 
 ### Internal VP (Anishka)
 
@@ -56,7 +56,7 @@ Budgeting, tracking spending, reimbursements, and keeping the club inside budget
 
 ### Comms VP (Anish)
 
-Owns regular club Instagram and social content: day to day posting and inbox, capturing activity to Drive (shared with Anishka), and running Comms directors once hired. Pipeline and director-era model live in [content.md](content.md). Concrete tasks live in [responsibilities.md](responsibilities.md).
+Owns regular club Instagram and social content: day to day posting and inbox, capturing activity to Drive (shared with Anishka), and running Comms directors once hired. Nidhi also has Instagram access for External outreach. Pipeline and director-era model live in [content.md](content.md). Concrete tasks live in [responsibilities.md](responsibilities.md).
 
 ### Mandir VP (Praven)
 

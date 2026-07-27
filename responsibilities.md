@@ -10,15 +10,11 @@ See also: [structure.md](structure.md) · [ratification.md](ratification.md) · 
 
 Co-presidents · Status: In progress
 
-- Meet and come up with a unified plan for the year so both presidents are aligned before the co-exec meeting and before handing work out to VPs
 - Join the ratification meeting with Shivali (alongside Krishna and Arnav) so presidents understand the docs and process
 - Help build the USC ratification checklist in [ratification.md](ratification.md) (with Krishna, Arnav, and Himani)
 - Confirm OWeek, Ganesh Chaturthi, and Makar Sankranti / Pongal plans with Events (see [events.md](events.md))
-- Decide which personal account holds club funds for now, and plan the handoff once ratified (see [budget.md](budget.md))
-- Confirm larger-day pooja / aarti format, frequency, and who is involved beyond Praven (see [hindu-calendar.md](hindu-calendar.md))
 - Assign handling (Post / pooja / aarti) to non-main days in [hindu-calendar.md](hindu-calendar.md)
 - Support Nidhi on the dedicated Hindu room push (see [location.md](location.md))
-- 15A exclusive-use contact: see [location.md](location.md) for the ask
 - Create the VP onboarding presentation
 - Create the VP expectations contract
 - Lock exec socials with Anishka (`@bringup[Ananya]`: maybe 1 per month, not locked yet)
@@ -53,11 +49,11 @@ Events · Status: Not started
 
 External · Status: Not started
 
-- Build genuine relationships with other clubs on campus
-- Put HSC in a strong, likeable position with other clubs so they are willing to collaborate or support us when it matters
-- Lead outreach for the dedicated Hindu room coalition: identify which clubs (likely South Asian or faith-based) would join the push and start those conversations (see [location.md](location.md))
-- Help represent HSC in inter-club contexts generally: guest invites, events, community / temple connections as they come up
+- Lead outreach for the dedicated Hindu room coalition: identify 2–3 target clubs (likely South Asian or faith-based) and send first outreach by mid-September (see [location.md](location.md))
 - Own and maintain [connections.md](connections.md) as the main keeper of HSC's network record (anyone can add a contact; Nidhi keeps the list tidy and current)
+- Repopulate [connections.md](connections.md) with contacts from last year (via Shivali / Himani) — carry forward anyone still useful, drop what's stale
+- General club-to-club outreach beyond coalition targets: build relationships and goodwill with clubs broadly, from HSC's Instagram page (not personal accounts), unless there's already a personal connection worth using as a supplement. Nidhi has access to the club Instagram for this.
+- Find and contact the 15A exclusive-use contact (via Himani or Shivali; see [location.md](location.md))
 
 ---
 
@@ -87,7 +83,7 @@ Finance · Status: Not started
 
 Comms · Status: Not started
 
-- Answer Instagram DMs
+- Answer Instagram DMs (Nidhi also has access to the club Instagram for External outreach)
 - Respond to story mentions and reach-outs from other clubs / organizations; flag anything needing presidents' attention up the chain
 - Post stories about day to day club activity (socials, events, weekly)
 - Record and capture content from club activity; upload to the Drive (shared with Anishka; she owns the folder structure)
@@ -100,6 +96,7 @@ Comms · Status: Not started
 Mandir · Status: Not started
 
 - Confirm pooja length and format for Ganesh Chaturthi with Events / presidents
+- Confirm larger-day pooja / aarti format, frequency, and who is involved beyond him (see [hindu-calendar.md](hindu-calendar.md))
 
 ---
 

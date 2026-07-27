@@ -8,7 +8,7 @@ See also: [structure.md](structure.md) · [responsibilities.md](responsibilities
 
 ## Comms (Regular Club Content)
 
-Owner: Anish (Comms), with directors once hired. Concrete tasks live in [responsibilities.md](responsibilities.md).
+Owner: Anish (Comms), with directors once hired. Nidhi also has access to the club Instagram for External outreach. Concrete tasks live in [responsibilities.md](responsibilities.md).
 
 ### Content Pipeline
 

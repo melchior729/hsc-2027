@@ -27,7 +27,7 @@ What we know so far about locking 15A for HSC-only use:
 | Notice needed             | TBD                              |
 | Process for bigger events | TBD                              |
 
-`@bringup[Ananya]`: Ask Himani or Shivali who the contact is, then ask that person directly. Probably a short conversation once we find the right person.
+`@bringup[Nidhi]`: Ask Himani or Shivali who the 15A exclusive-use contact is, then ask that person directly. Probably a short conversation once we find the right person.
 
 ---
 
@@ -49,11 +49,12 @@ Push for a dedicated Hindu prayer / reflection room on campus. There is currentl
 Rough approach (still shaping):
 
 - Build a coalition with other clubs (likely other South Asian or faith-based groups). A joint push carries more weight than HSC alone
+- Near-term: identify 2–3 target clubs and send first outreach by mid-September
 - Multi-club framing: a shared space where each club could have some presence / decoration, but HSC stays primary base of operations and keeps the Mandir there
 - Needs a bureaucratic push through the university; process and right office still TBD
 - Timing: push before or after ratification? Ratification likely gives HSC more standing. Leaning toward waiting until after, but not decided
 
-`@bringup[Nidhi]`: Own the dedicated Hindu room push as External (coalition with other clubs, university channels).
+`@bringup[Nidhi]`: Own the dedicated Hindu room push as External (coalition with other clubs, university channels). First outreach to 2–3 targets by mid-September.
 
 | Item   | Detail                                                     |
 | ------ | ---------------------------------------------------------- |

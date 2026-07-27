@@ -8,12 +8,10 @@ See also: [responsibilities.md](responsibilities.md) · [README.md](README.md)
 
 ## Co-presidents
 
-- [ ] Finish unified plan → [responsibilities.md](responsibilities.md)
+- [x] Finish unified plan (Abhay & Ananya met) → [responsibilities.md](responsibilities.md)
 - [ ] Confirm OWeek, Ganesh Chaturthi, and Makar Sankranti / Pongal with Events → [events.md](events.md) / [responsibilities.md](responsibilities.md)
-- [ ] Decide which personal account holds funds for now + handoff plan once ratified (`@bringup[Ananya]`) → [budget.md](budget.md)
-- [ ] Confirm larger-day pooja / aarti format, frequency, and who beyond Praven (`@bringup[Ananya]`) → [hindu-calendar.md](hindu-calendar.md)
+- [x] Funds held in Ananya's personal account (handoff to bank account once ratified) → [budget.md](budget.md)
 - [ ] Assign handling (Post / pooja / aarti) to non-main days → [hindu-calendar.md](hindu-calendar.md) / [responsibilities.md](responsibilities.md)
-- [ ] Find 15A exclusive-use contact via Himani or Shivali, then ask that person (`@bringup[Ananya]`) → [location.md](location.md)
 - [ ] Support Nidhi on the dedicated Hindu room push → [location.md](location.md) / [responsibilities.md](responsibilities.md)
 - [ ] Create VP onboarding presentation → [responsibilities.md](responsibilities.md)
 - [ ] Create VP expectations contract → [responsibilities.md](responsibilities.md)
@@ -38,6 +36,7 @@ See also: [responsibilities.md](responsibilities.md) · [README.md](README.md)
 - [ ] Lock exact dates / times for Diwali, Makar Sankranti, and Holi; book venues ASAP → [events.md](events.md)
 - [ ] Ishani & Shivan check in on rough event cost estimates (with Finance) → [budget.md](budget.md)
 - [ ] Confirm Ganesh pooja length and format (Praven, with Events / presidents) → [responsibilities.md](responsibilities.md)
+- [ ] Confirm larger-day pooja / aarti format, frequency, and who beyond Praven (`@bringup[Praven]`) → [hindu-calendar.md](hindu-calendar.md) / [responsibilities.md](responsibilities.md)
 
 ---
 
@@ -54,8 +53,9 @@ See also: [responsibilities.md](responsibilities.md) · [README.md](README.md)
 
 ## Location / Calendar / Connections
 
-- [ ] Next concrete step for dedicated Hindu room push (Nidhi leads; Co-presidents support) → [location.md](location.md) / [responsibilities.md](responsibilities.md)
-- [ ] Add more contacts (USC staff, 15A, other clubs, temples) + fill emails / phones → [connections.md](connections.md)
+- [ ] Find 15A exclusive-use contact via Himani or Shivali, then ask that person (Nidhi) → [location.md](location.md)
+- [ ] Repopulate connections.md with last year's contacts (Nidhi) → [connections.md](connections.md)
+- [ ] Send first outreach to 2–3 target clubs for Hindu room coalition by mid-September (Nidhi) → [location.md](location.md)
 
 ---
 

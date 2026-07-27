@@ -44,7 +44,7 @@ These apply to every main event. This is a shared checklist; put only event-spec
 
 Target date: Mon - Sat, Sept 7 - 12, 2026 (Orientation Week)
 
-`@bringup[Ananya, Ishani, Shivan]`: Decide the OWeek format, which day(s) we run, and what the station looks like.
+`@bringup[Ishani, Shivan]`: Decide the OWeek format, which day(s) we run, and what the station looks like.
 
 TBD: format, exact day(s), and station setup
 
@@ -61,7 +61,7 @@ Notes / to figure out:
 
 Target date: Mon, Sept 14, 2026 (early week 2 of Fall classes)
 
-`@bringup[Ananya, Ishani, Shivan]`: Align on the Ganesh Chaturthi plan (vibe, inside / outside, itinerary, and discussion).
+`@bringup[Ishani, Shivan]`: Align on the Ganesh Chaturthi plan (vibe, inside / outside, itinerary, and discussion).
 
 Vibe: Chill, social, low-pressure. An introduction event that is easy for new people to walk in, talk with us or with strangers, and get a feel for the club.
 
@@ -105,7 +105,7 @@ Notes / to figure out:
 
 Target date: Thu - Fri, Jan 14 - 15, 2027 (week 2 of Winter classes)
 
-`@bringup[Ananya, Ishani, Shivan]`: Align on the Makar Sankranti / Pongal vibe and format (welcome-back social like Ganesh).
+`@bringup[Ishani, Shivan]`: Align on the Makar Sankranti / Pongal vibe and format (welcome-back social like Ganesh).
 
 Vibe: Same energy as Ganesh. Chill welcome-back social for Winter Term (not a second Diwali / Holi-scale production).
 

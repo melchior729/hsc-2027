@@ -12,11 +12,11 @@ See also: [events.md](events.md) · [ratification.md](ratification.md) · [ideas
 | ------------- | ----------------------------------------------- |
 | Year total    | $650                                            |
 | Owners        | Finance Team                                    |
-| Funds held in | `@bringup[Ananya]`: account TBD; see note below |
+| Funds held in | Ananya's personal account |
 
 $650 is a major constraint on everything we plan: events, food, materials, OWeek, promo. Every spend decision has to respect this number.
 
-Club funds currently sit in a personal account. Ananya needs to decide which account to use going forward and plan the handoff once ratified.
+Club funds currently sit in Ananya's personal account. Plan the handoff into a proper bank account once ratified.
 
 ---
 
@@ -38,7 +38,7 @@ Club funds currently sit in a personal account. Ananya needs to decide which acc
 - Track and hold onto every receipt for club purchases
 - Keep an up-to-date running log of all spending against the $650 ceiling
 - Own the reimbursement paperwork process once ratification succeeds
-- Figure out how we move club funds into a proper bank account (required for ratification; money should not stay in a personal account)
+- Figure out how we move club funds into a proper bank account (required for ratification; money should not stay in Ananya's personal account)
 
 ---
 

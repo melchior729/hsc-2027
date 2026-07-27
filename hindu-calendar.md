@@ -9,7 +9,7 @@ See also: [events.md](events.md) · [academic-calendar.md](academic-calendar.md)
 ## Handling Types
 
 - Post: Social media post on the day (mandatory for everything on this list)
-- Pooja / aarti: for larger days, hold a pooja or aarti (likely 15A). `@bringup[Ananya]`: Confirm format, frequency, and who is involved beyond Praven.
+- Pooja / aarti: for larger days, hold a pooja or aarti (likely 15A). `@bringup[Praven]`: Confirm format, frequency, and who is involved beyond him.
 - Celebrate: full event; reserved for the main 5 in [events.md](events.md) (OWeek, Ganesh Chaturthi, Diwali, Makar Sankranti / Pongal, Holi)
 
 Handling column is intentionally mostly blank for non-main days. Fill it in as the schedule builds.
@@ -18,36 +18,41 @@ Handling column is intentionally mostly blank for non-main days. Fill it in as t
 
 ## Summer / Pre-Term 2026
 
+
 | Date        | Event          | Academic context | Handling |
 | ----------- | -------------- | ---------------- | -------- |
 | Wed, Jul 29 | Guru Purnima   | Summer Break     | TBD      |
 | Wed, Aug 26 | Onam           | Pre-Term         | TBD      |
 | Fri, Aug 28 | Raksha Bandhan | Pre-Term         | TBD      |
 
+
 ---
 
 ## Fall Term 2026
 
-| Date             | Event                               | Academic context                      | Handling                                |
-| ---------------- | ----------------------------------- | ------------------------------------- | --------------------------------------- |
-| Fri, Sept 4      | Krishna Janmashtami                 | Before OWeek starts (Sept 7)          | TBD                                     |
+
+| Date             | Event                               | Academic context                      | Handling                                 |
+| ---------------- | ----------------------------------- | ------------------------------------- | ---------------------------------------- |
+| Fri, Sept 4      | Krishna Janmashtami                 | Before OWeek starts (Sept 7)          | TBD                                      |
 | Mon, Sept 14     | Ganesh Chaturthi                    | Early week 2 of Fall classes          | Celebrate: main event #2 (pooja + intro) |
-| Fri, Sept 25     | Anant Chaturdashi (Ganesh Visarjan) | midterm                               | TBD                                     |
-| Sept 26 - Oct 10 | Pitru Paksha & Mahalaya             | Leading up to Fall Reading Week       | TBD                                     |
-| Oct 11 - 19      | Sharad Navratri                     | Inside Fall Reading Week              | TBD                                     |
-| Tue, Oct 20      | Dussehra (Vijayadashami)            | Post-Reading Week                     | TBD                                     |
-| Wed, Oct 28      | Karva Chauth                        | midterm                               | TBD                                     |
-| Fri, Nov 6       | Dhanteras                           | midterm (start of Diwali weekend)     | TBD                                     |
-| Sun, Nov 8       | Diwali (Lakshmi Pooja)              | midterm                               | Celebrate: main event #3                |
-| Mon, Nov 9       | Govardhan Pooja                     | midterm (day after Diwali)            | TBD                                     |
-| Wed, Nov 11      | Bhai Dooj                           | midterm                               | TBD                                     |
-| Sun, Nov 15      | Chhath Pooja                        | midterm                               | TBD                                     |
-| Tue, Nov 24      | Kartik Purnima (Dev Diwali)         | midterm                               | TBD                                     |
-| Sun, Dec 20      | Geeta Jayanti                       | Inside Fall exam period (Dec 11 - 22) | TBD                                     |
+| Fri, Sept 25     | Anant Chaturdashi (Ganesh Visarjan) | midterm                               | TBD                                      |
+| Sept 26 - Oct 10 | Pitru Paksha & Mahalaya             | Leading up to Fall Reading Week       | TBD                                      |
+| Oct 11 - 19      | Sharad Navratri                     | Inside Fall Reading Week              | TBD                                      |
+| Tue, Oct 20      | Dussehra (Vijayadashami)            | Post-Reading Week                     | TBD                                      |
+| Wed, Oct 28      | Karva Chauth                        | midterm                               | TBD                                      |
+| Fri, Nov 6       | Dhanteras                           | midterm (start of Diwali weekend)     | TBD                                      |
+| Sun, Nov 8       | Diwali (Lakshmi Pooja)              | midterm                               | Celebrate: main event #3                 |
+| Mon, Nov 9       | Govardhan Pooja                     | midterm (day after Diwali)            | TBD                                      |
+| Wed, Nov 11      | Bhai Dooj                           | midterm                               | TBD                                      |
+| Sun, Nov 15      | Chhath Pooja                        | midterm                               | TBD                                      |
+| Tue, Nov 24      | Kartik Purnima (Dev Diwali)         | midterm                               | TBD                                      |
+| Sun, Dec 20      | Geeta Jayanti                       | Inside Fall exam period (Dec 11 - 22) | TBD                                      |
+
 
 ---
 
 ## Winter Term 2027
+
 
 | Date        | Event                      | Academic context                         | Handling                                |
 | ----------- | -------------------------- | ---------------------------------------- | --------------------------------------- |
@@ -63,10 +68,14 @@ Handling column is intentionally mostly blank for non-main days. Fill it in as t
 | Thu, Apr 15 | Ram Navami                 | Inside Winter exam period                | TBD                                     |
 | Tue, Apr 20 | Hanuman Jayanti            | Inside Winter exam period                | TBD                                     |
 
+
 ---
 
 ## Post-Term (Summer 2027)
 
+
 | Date       | Event           | Academic context | Handling |
 | ---------- | --------------- | ---------------- | -------- |
 | Thu, May 6 | Akshaya Tritiya | Summer Break     | TBD      |
+
+
