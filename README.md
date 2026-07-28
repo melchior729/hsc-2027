@@ -1,6 +1,6 @@
 # Western HSC 2026 - 27
 
-Planning docs for Western Hindu Students Council at Western University (USC club; not yet ratified).
+Planning docs for Western Hindu Students Council at Western University.
 
 Co-presidents: Abhay, Ananya
 
