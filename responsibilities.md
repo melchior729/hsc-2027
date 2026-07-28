@@ -49,7 +49,7 @@ Events · Status: Not started
 
 External · Status: Not started
 
-- Lead outreach for the dedicated Hindu room coalition: identify 2–3 target clubs (likely South Asian or faith-based) and send first outreach by mid-September (see [location.md](location.md))
+- Lead outreach for the dedicated Hindu room coalition: identify target clubs and send first outreach by mid-September (see [location.md](location.md))
 - Own and maintain [connections.md](connections.md) as the main keeper of HSC's network record (anyone can add a contact; Nidhi keeps the list tidy and current)
 - Repopulate [connections.md](connections.md) with contacts from last year (via Shivali / Himani) — carry forward anyone still useful, drop what's stale
 - General club-to-club outreach beyond coalition targets: build relationships and goodwill with clubs broadly, from HSC's Instagram page (not personal accounts), unless there's already a personal connection worth using as a supplement. Nidhi has access to the club Instagram for this.
