@@ -23,7 +23,7 @@ Handling column is intentionally mostly blank for non-main days. Fill it in as t
 | ----------- | -------------- | ---------------- | -------- |
 | Wed, Jul 29 | Guru Purnima   | Summer Break     | TBD      |
 | Wed, Aug 26 | Onam           | Pre-Term         | TBD      |
-| Fri, Aug 28 | Raksha Bandhan | Pre-Term         | TBD      |
+| Thu, Aug 27 | Raksha Bandhan | Pre-Term         | TBD      |
 
 
 ---
@@ -43,10 +43,10 @@ Handling column is intentionally mostly blank for non-main days. Fill it in as t
 | Fri, Nov 6       | Dhanteras                           | midterm (start of Diwali weekend)     | TBD                                      |
 | Sun, Nov 8       | Diwali (Lakshmi Pooja)              | midterm                               | Celebrate: main event #3                 |
 | Mon, Nov 9       | Govardhan Pooja                     | midterm (day after Diwali)            | TBD                                      |
-| Wed, Nov 11      | Bhai Dooj                           | midterm                               | TBD                                      |
+| Tue, Nov 10      | Bhai Dooj                           | midterm                               | TBD                                      |
 | Sun, Nov 15      | Chhath Pooja                        | midterm                               | TBD                                      |
 | Tue, Nov 24      | Kartik Purnima (Dev Diwali)         | midterm                               | TBD                                      |
-| Sun, Dec 20      | Geeta Jayanti                       | Inside Fall exam period (Dec 11 - 22) | TBD                                      |
+| Sat, Dec 19      | Geeta Jayanti                       | Inside Fall exam period (Dec 11 - 22) | TBD                                      |
 
 
 ---
