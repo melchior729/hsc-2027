@@ -44,11 +44,11 @@ Design and run events: format, logistics, space bookings, and day-of execution. 
 
 ### External VP (Nidhi)
 
-Club-to-club and outside relationships: partnerships, outreach, and representing HSC externally. Outreach runs from HSC's Instagram (not personal accounts), unless a personal connection is useful as a supplement. Largely controls [connections.md](connections.md) (anyone can add a contact; Nidhi keeps it current), including repopulating last year's contacts. Owns the 15A exclusive-use contact ask and the dedicated Hindu room coalition push. See [location.md](location.md).
+Club-to-club and outside relationships: partnerships, outreach, and representing HSC externally. Outreach runs from HSC's Instagram (not personal accounts), unless a personal connection is useful as a supplement. Largely controls [connections.md](connections.md) (anyone can add a contact; Nidhi keeps it current), including repopulating last year's contacts. Owns the dedicated Hindu room coalition push. See [location.md](location.md).
 
 ### Internal VP (Anishka)
 
-Owns club-facing infrastructure: email, Drive (shared with Anish; Anishka owns the folder structure), meeting minutes, exec socials, and the director hiring process across all VP teams. See [responsibilities.md](responsibilities.md).
+Owns club-facing infrastructure: email, Drive (shared with Anish; Anishka owns the folder structure), meeting minutes, LettuceMeet links for socials, a bank of low-cost activity ideas, exec socials, and the director hiring process across all VP teams. See [responsibilities.md](responsibilities.md).
 
 ### Finance VP (Sanmita, Ivneet)
 
@@ -60,7 +60,7 @@ Owns regular club Instagram and social content: day to day posting and inbox, ca
 
 ### Mandir VP (Praven)
 
-Owns pooja and ritual practice: mantras, ceremony knowledge, and care of the physical Mandir setup in 15A. Primary person for the religious / worship side of club activities. See [location.md](location.md).
+Owns pooja and ritual practice: mantras, ceremony knowledge, and care of the physical Mandir setup in 15A. Owns classifying non-main days in [hindu-calendar.md](hindu-calendar.md) as Post or pooja / aarti. Primary person for the religious / worship side of club activities. See [location.md](location.md).
 
 ### Senior Advisor (Himani)
 

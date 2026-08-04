@@ -27,7 +27,7 @@ What we know so far about locking 15A for HSC-only use:
 | Notice needed             | TBD                              |
 | Process for bigger events | TBD                              |
 
-`@bringup[Nidhi]`: Ask Himani or Shivali who the 15A exclusive-use contact is, then ask that person directly. Probably a short conversation once we find the right person.
+`@bringup[Abhay, Ananya]`: At the Aug 9 Shivali meeting (Himani also present), get the 15A exclusive-use contact name and any useful details. Update [connections.md](connections.md), then tell Nidhi. Nidhi reaches out to that person (presidents can help if useful).
 
 ---
 
@@ -36,7 +36,7 @@ What we know so far about locking 15A for HSC-only use:
 Keep the Mandir and the room itself clean: tidy up, vacuum, and reset the Mandir setup.
 
 - Before and after every event, without exception
-- Ideally on a light routine at other times too (routine TBD)
+- Ideally on a light routine at other times too (routine TBD with Praven; see [responsibilities.md](responsibilities.md))
 - Whoever is there helps; no single owner
 - Matters more because 15A is shared; leaving it clean keeps us in good standing with other groups
 
@@ -49,12 +49,12 @@ Push for a dedicated Hindu prayer / reflection room on campus. There is currentl
 Rough approach (still shaping):
 
 - Build a coalition with other clubs (likely other South Asian or faith-based groups). A joint push carries more weight than HSC alone
-- Near-term: identify 2–3 target clubs and send first outreach by mid-September
+- Near-term: Nidhi decides how many target clubs to start with and sends first outreach by mid-September
 - Multi-club framing: a shared space where each club could have some presence / decoration, but HSC stays primary base of operations and keeps the Mandir there
 - Needs a bureaucratic push through the university; process and right office still TBD
 - Timing: push before or after ratification? Ratification likely gives HSC more standing. Leaning toward waiting until after, but not decided
 
-`@bringup[Nidhi]`: Own the dedicated Hindu room push as External (coalition with other clubs, university channels). First outreach to 2–3 targets by mid-September.
+`@bringup[Nidhi]`: Own the dedicated Hindu room push as External (coalition with other clubs, university channels). Decide how many targets to start with; first outreach by mid-September.
 
 | Item   | Detail                                                     |
 | ------ | ---------------------------------------------------------- |

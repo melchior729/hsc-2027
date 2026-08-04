@@ -10,6 +10,7 @@ Co-presidents: Abhay, Ananya
 | -------------------------------------------- | ---------------------------------------------- |
 | [structure.md](structure.md)                 | Who exists, what roles mean                    |
 | [responsibilities.md](responsibilities.md)   | What everyone's actually doing right now       |
+| [meetings.md](meetings.md)                   | This week's check-in agendas by group          |
 | [tracker.md](tracker.md)                     | Open work across the club at a glance          |
 | [academic-calendar.md](academic-calendar.md) | Constraints everything else has to work around |
 | [hindu-calendar.md](hindu-calendar.md)       | The full festival list this year draws from    |

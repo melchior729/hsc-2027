@@ -2,7 +2,7 @@
 
 Year budget and spending rules.
 
-See also: [events.md](events.md) · [ratification.md](ratification.md) · [ideas.md](ideas.md)
+See also: [events.md](events.md) · [ratification.md](ratification.md) · [ideas.md](ideas.md) · [responsibilities.md](responsibilities.md)
 
 ---
 
@@ -38,15 +38,28 @@ Club funds currently sit in Ananya's personal account. Plan the handoff into a p
 - All purchases must be approved by Finance before money is spent
 - Flag / disapprove any planned spend they think is too expensive or not worth the cost
 - Track and hold onto every receipt for club purchases
-- Keep an up-to-date running log of all spending against the $650 ceiling
-- Own the reimbursement paperwork process once ratification succeeds
-- Figure out how we move club funds into a proper bank account (required for ratification; money should not stay in Ananya's personal account)
+- Keep an up-to-date running log of all spending against the $650 ceiling (confirm format and who updates it day to day)
+- Own the reimbursement paperwork process once ratification succeeds (paperwork, timing, who processes it)
+- Figure out how we move club funds into a proper bank account (required for ratification; money should not stay in Ananya's personal account). Confirm authorized signers, documentation, and timeline relative to Oct 15
+- Decide whether Finance wants any directors, and if so how many
+
+---
+
+## Shared Event Budget File
+
+One shared budget file on the Drive (not per-event files). Item + price entries.
+
+- Events fills it in as plans firm up
+- Finance reviews and approves / denies from there
+- Lock who submits requests, how approve / deny works, and turnaround time
+
+`@bringup[Ishani, Shivan, Sanmita, Ivneet]`: Stand this up and agree the approval flow.
 
 ---
 
 ## Event Budget Breakdown
 
-`@bringup[Ishani, Shivan]`: Check in on rough cost estimates for each main event against the $650 ceiling. Talk through numbers with Finance as event plans firm up in [events.md](events.md); early estimates are fine.
+`@bringup[Ishani, Shivan]`: Check in on rough cost estimates for each main event against the $650 ceiling. Talk through numbers with Finance as event plans firm up in [events.md](events.md); early estimates are fine. Numbers should land in the shared Drive budget file above, then get summarized here.
 
 Amounts stay TBD until then.
 
@@ -59,5 +72,4 @@ Amounts stay TBD until then.
 | 4   | [Makar Sankranti / Pongal](events.md#event-4-makar-sankranti--pongal) | TBD            | Low-cost, like Ganesh                        |
 | 5   | [Holi](events.md#event-5-holi)                                        | TBD            | Larger share; permits / cleanup may add cost |
 |     | Total                                                                 | $650 max       | Must fit year ceiling                        |
-
 

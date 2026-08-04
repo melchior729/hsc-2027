@@ -80,7 +80,7 @@ Notes / to figure out:
 - Sweets / chai / snack offerings (Modak)
 - Playlist and bringing a speaker
 - Signup sheets
-- Find an actual Ganesh murti
+- Find an actual Ganesh murti (Events owns; presidents will also check in with Praven)
 - Financial tracking
 - Club discussion speaker and content
 
