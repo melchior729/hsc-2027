@@ -10,7 +10,7 @@ See also: [structure.md](structure.md) · [ratification.md](ratification.md) · 
 
 Co-presidents · Status: In progress
 
-- Join the ratification meeting with Shivali (alongside Krishna and Arnav) so presidents understand the docs and process
+- Join the ratification meeting with Shivali on Sun Aug 9, 2026 at 12:00pm (alongside Krishna and Arnav) so presidents understand the docs and process
 - Help build the USC ratification checklist in [ratification.md](ratification.md) (with Krishna, Arnav, and Himani)
 - Confirm OWeek, Ganesh Chaturthi, and Makar Sankranti / Pongal plans with Events (see [events.md](events.md))
 - Assign handling (Post / pooja / aarti) to non-main days in [hindu-calendar.md](hindu-calendar.md)
@@ -23,9 +23,9 @@ Co-presidents · Status: In progress
 
 ### Krishna & Arnav
 
-Executive Officers · Status: Not started
+Executive Officers · Status: In progress
 
-- Set up a meeting with Shivali on ratification
+- Meeting with Shivali on ratification scheduled for Sun Aug 9, 2026 at 12:00pm
 - Get the ratification documents from her
 - Learn the full process and clarify what we still need before the Oct 15 USC submission deadline
 - Lead building the USC ratification checklist in [ratification.md](ratification.md) (with Abhay, Ananya, and Himani)

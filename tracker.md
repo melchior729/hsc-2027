@@ -10,7 +10,7 @@ See also: [responsibilities.md](responsibilities.md) · [README.md](README.md)
 
 - [x] Finish unified plan (Abhay & Ananya met) → [responsibilities.md](responsibilities.md)
 - [ ] Confirm OWeek, Ganesh Chaturthi, and Makar Sankranti / Pongal with Events → [events.md](events.md) / [responsibilities.md](responsibilities.md)
-- [x] Funds held in Ananya's personal account (handoff to bank account once ratified) → [budget.md](budget.md)
+- [x] Funds held in Ananya's personal account (handoff to bank account still needed) → [budget.md](budget.md)
 - [ ] Assign handling (Post / pooja / aarti) to non-main days → [hindu-calendar.md](hindu-calendar.md) / [responsibilities.md](responsibilities.md)
 - [ ] Support Nidhi on the dedicated Hindu room push → [location.md](location.md) / [responsibilities.md](responsibilities.md)
 - [ ] Create VP onboarding presentation → [responsibilities.md](responsibilities.md)
@@ -21,7 +21,7 @@ See also: [responsibilities.md](responsibilities.md) · [README.md](README.md)
 
 ## Ratification / Finance
 
-- [ ] Schedule Shivali ratification meeting (Krishna, Arnav, Abhay, Ananya) → [ratification.md](ratification.md) / [responsibilities.md](responsibilities.md)
+- [x] Schedule Shivali ratification meeting — Sun Aug 9, 2026, 12:00pm (Krishna, Arnav, Abhay, Ananya) → [ratification.md](ratification.md) / [responsibilities.md](responsibilities.md)
 - [ ] Build USC ratification checklist (11 areas; donation + merch rules folded into financial / naming) → [ratification.md](ratification.md)
   - Owners: Krishna & Arnav lead, with Abhay, Ananya, and Himani; use Shivali's docs; work backward from Oct 15, 2026
 - [ ] Move club funds into a proper bank account (required for ratification) → [budget.md](budget.md)

@@ -13,7 +13,7 @@ See also: [responsibilities.md](responsibilities.md) · [connections.md](connect
 | ------------------- | ---------------------------------------------------------- |
 | Status              | Not ratified                                               |
 | Submission deadline | Oct 15, 2026 (USC hand-in date)                            |
-| Immediate next step | Meeting with Shivali for process walkthrough and documents |
+| Immediate next step | Meeting with Shivali — Sun Aug 9, 2026, 12:00pm (process walkthrough and documents) |
 
 
 Oct 15 sits inside Fall Reading Week (Oct 10 - 18). See [academic-calendar.md](academic-calendar.md). Documents and signatures must be finished and packaged before then. See [responsibilities.md](responsibilities.md).

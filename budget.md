@@ -8,15 +8,17 @@ See also: [events.md](events.md) · [ratification.md](ratification.md) · [ideas
 
 ## Budget Overview
 
-| Item          | Detail                                          |
-| ------------- | ----------------------------------------------- |
-| Year total    | $650                                            |
-| Owners        | Finance Team                                    |
+
+| Item          | Detail                    |
+| ------------- | ------------------------- |
+| Year total    | $650                      |
+| Owners        | Finance Team              |
 | Funds held in | Ananya's personal account |
+
 
 $650 is a major constraint on everything we plan: events, food, materials, OWeek, promo. Every spend decision has to respect this number.
 
-Club funds currently sit in Ananya's personal account. Plan the handoff into a proper bank account once ratified.
+Club funds currently sit in Ananya's personal account. Plan the handoff into a proper bank account.
 
 ---
 
@@ -48,6 +50,7 @@ Club funds currently sit in Ananya's personal account. Plan the handoff into a p
 
 Amounts stay TBD until then.
 
+
 | #   | Event                                                                 | Estimated cost | Notes                                        |
 | --- | --------------------------------------------------------------------- | -------------- | -------------------------------------------- |
 | 1   | [OWeek](events.md#event-1-oweek)                                      | TBD            | Variable; keep low-cost                      |
@@ -56,3 +59,5 @@ Amounts stay TBD until then.
 | 4   | [Makar Sankranti / Pongal](events.md#event-4-makar-sankranti--pongal) | TBD            | Low-cost, like Ganesh                        |
 | 5   | [Holi](events.md#event-5-holi)                                        | TBD            | Larger share; permits / cleanup may add cost |
 |     | Total                                                                 | $650 max       | Must fit year ceiling                        |
+
+
